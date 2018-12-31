@@ -107,17 +107,12 @@ Paper list and resources on brain image (e. g. fMRI) analysis.
    - *Juan Eugenio Iglesias, et al.* 
    - 识别头部是否移动，提高ABIDE预测准确率。
    
-1. ****
-   - ** 
-1. ****
-   - **
+1. **Transfer learning improves resting-state functional connectivity pattern analysis using convolutional neural networks**
+   - *Pál Vakli, et al.* 2018.
+   - fMRI, 迁移学习
    
-1. **3D CNN-based classification using sMRI and MD-DTI images for Alzheimer disease studies**
-   - *Alexander Khvostikov, et al.* 2018.
-   - 数据：sMRI,DTI
-   
-
-   
+1. **Deep neural network with weight sparsity control and pre-training extracts hierarchical features and enhances classification performance: Evidence from whole-brain resting-state functional connectivity patterns of schizophrenia**
+   - *Junghoe Kim, et al.* 2016.
 
    
 1. **基于卷积神经网络的ADHD的判别分析**
@@ -132,7 +127,10 @@ Paper list and resources on brain image (e. g. fMRI) analysis.
 1. **Alzheimer’s disease diagnostics by a 3D deeply supervised adaptable convolutional network**
    - *Ehsan Hosseini Asl, et al.*  2018.
    - 数据：sMRI ADNI, 迁移学习与域适应
-   
+
+1. **3D CNN-based classification using sMRI and MD-DTI images for Alzheimer disease studies**
+   - *Alexander Khvostikov, et al.* 2018.
+   - 数据：sMRI,DTI
    
 1. **Deep MRI brain extraction: A 3D convolutional neural network for skull stripping**
    - *Jens Kleesiek, et al.* 2016. 
@@ -166,7 +164,15 @@ Paper list and resources on brain image (e. g. fMRI) analysis.
    
 1. **Spatio-Temporal Tensor Analysis for Whole-Brain fMRI Classication**
    - *Guixiang Ma, et al.* 
+   
+1. **Feature Selection with a Genetic Algorithm for Classification of Brain Imaging Data**
+   - *Annamária Szenkovits, et al.* 2017.
+   - 特征选择
 
+1. **Building a Science of Individual Differences from fMRI**
+   - *Julien Dubois* 2016.
+   - 从组到个体的研究
+   
 
 ## Resting-state fMRI on region level 
 ##### Deep learning for region
@@ -174,18 +180,17 @@ Paper list and resources on brain image (e. g. fMRI) analysis.
    - *Regina Júlia Meszlényi, et al.* 2017.
    - 499个脑区的网络用CNN
    
-1. ****
-   - ** 
-   
-1. ****
-   - ** 
+1. **Identifying Connectivity Patterns for Brain Diseases via Multi-side-view Guided Deep Architectures**
+   - *Jingyuan Zhang, et al.*  2016.
+  
 
 #### Non-deep-learning for region
-1. ****
-   - ** 
+1. **Resting-State Functional Connectivity in Autism Spectrum Disorders: A Review**
+   - *Jocelyn V. Hull, et al.*  2017.
+   
    
 1. ****
-   - ** 
+   - **
 
 ## task fMRI
 ##### Deep learning for voxel
@@ -209,20 +214,17 @@ Paper list and resources on brain image (e. g. fMRI) analysis.
 1. **Learning Deep Temporal Representations for fMRI Brain Decoding**
    - *Orhan Firat, et al.* 2015.
    
-1. ****
-   - ** 
+1. **Task-specific feature extraction and classification of fMRI volumes using a deep neural network initialized with a deep belief network: Evaluation using sensorimotor tasks**
+   - *Hojin Jang, et al.*  2017.
    
-1. ****
-   - ** 
+
 #### Non-deep-learning for region
-1. ****
-   - ** 
+1. **Improving accuracy and power with transfer learning using a meta-analytic database**
+   - *Yannick Schwartz, et al.* 2012.
+   - 迁移学习
    
-1. ****
-   - ** 
 
-
-## Machine learning for PD
+## Parkinson 
 1. ****
    - ** 
 1. ****
@@ -240,7 +242,7 @@ Paper list and resources on brain image (e. g. fMRI) analysis.
 1. ****
    - ** 
 
-## Machine learning for depression
+## Depression
 1. ****
    - ** 
 1. ****
@@ -252,21 +254,21 @@ Paper list and resources on brain image (e. g. fMRI) analysis.
 1. ****
    - ** 
    
-1. ****
-   - ** 
+1. **Diagnostic classification of unipolar depression based on restingstate functional connectivity MRI: effects of generalization to a diverse sample**
+   - *Benedikt Sundermann, et al.*  2017.
    
 1. ****
    - ** 
    
 ## dataset
-1. ****
-   - ** 
+1. Human Connectome Project (HCP)
+   - [HCP](https://www.humanconnectome.org/)
    
-1. ****
-   - ** 
+1. Openfmri & openneuro
+   - [openneuro](https://openneuro.org/)
    
-1. ****
-   - ** 
+1. Parkinson's Progression Markers Initiative (PPMI)
+   -[PPMI](https://www.ppmi-info.org/)
    
-1. ****
-   - ** 
+1. Autism Brain Imaging Data Exchange (ABIDE)
+   - [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)
