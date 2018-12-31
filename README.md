@@ -48,6 +48,31 @@ Paper list and resources on brain image (e. g. fMRI) analysis.
 1. **Voxelwise 3D Convolutional and Recurrent Neural Networks for Epilepsy and Depression Diagnostics from Structural and Functional MRI Data**
    - *Marina Pominova, et al.*  2018.
    
+1. **Towards Alzheimer’s Disease Classification through Transfer Learning**
+   - *Marcia Hon, et al.*  BIBM 2017.
+   - 使用**迁移学习**进行阿兹海默症疾病分类
+   
+1. **DeepAD: Alzheimer’s Disease Classification via Deep Convolutional Neural Networks using MRI and fMRI**
+   - *Saman Sarraf, et al.*  2016. 
+   
+1. **Deep Learning in Medical Image Analysis**
+   - *Dinggang Shen, et al.*   2017.
+   
+1. **Deep learning for neuroimaging: a validation study**
+   - *Sergey M. Plis, *  2014.
+   
+1. ****
+   - ** 
+   
+1. ****
+   - ** 
+   
+1. ****
+   - ** 
+   
+1. ****
+   - **    
+   
 #### Non-deep-learning for voxel
 1. **Multi-way Multi-level Kernel Modeling for Neuroimaging Classification**
    - *Lifang He, et al.*   CVPR 2017.
@@ -76,11 +101,12 @@ Paper list and resources on brain image (e. g. fMRI) analysis.
 
 ## task fMRI
 ##### Deep learning for voxel
-1. ****
-   - ** 
+1. **Deep learning of fMRI big data: a novel approach to subject-transfer decoding**
+   - *Sotetsu Koyamada, et al.*  2015.
    
-1. ****
-   - ** 
+1. **Brains on Beats**
+   - *Umut Guclu, et al.* 
+   - 用DNN测人脑对音乐的反应。
    
 1. ****
    - ** 
