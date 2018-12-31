@@ -298,7 +298,7 @@ Paper list and resources on brain image (e. g. fMRI) analysis.
    - *Rajamannar Ramasubbu, et al.* 2016
    
 1. **Resting-state connectivity biomarkers define neurophysiological subtypes of depression**
-   - ** 2017.
+   - *Andrew T Drysdale, et al.* 2017.
    - 亚型
    
 1. **Diagnostic classification of unipolar depression based on restingstate functional connectivity MRI: effects of generalization to a diverse sample**
