@@ -36,21 +36,17 @@ Paper list and resources on brain image (e. g. fMRI) analysis.
 1. **Learning Neural Markers of Schizophrenia Disorder Using Recurrent Neural Networks**
    - *Jumana Dakka, et al.*  2017.
    
-1. **learning representations from eeg with deep recurrent-convolutional neural networks**
-   - *Pouya Bashivan, et al.*  ICLR 2016.
+
    
 1. **Classification of Alzheimer’s Disease Using fMRI Data and Deep Learning Convolutional Neural Networks**
    - *Saman Sarraf, Ghassem Tofighi*  2016.
-   
-1. **Towards Alzheimer’s Disease Classification through Transfer Learning**
-   - *Marcia Hon, et al.*  2017.
    
 1. **Voxelwise 3D Convolutional and Recurrent Neural Networks for Epilepsy and Depression Diagnostics from Structural and Functional MRI Data**
    - *Marina Pominova, et al.*  2018.
    
 1. **Towards Alzheimer’s Disease Classification through Transfer Learning**
    - *Marcia Hon, et al.*  BIBM 2017.
-   - 使用**迁移学习**进行阿兹海默症疾病分类
+   - 使用迁移学习进行阿兹海默症疾病分类
    
 1. **DeepAD: Alzheimer’s Disease Classification via Deep Convolutional Neural Networks using MRI and fMRI**
    - *Saman Sarraf, et al.*  2016. 
@@ -61,17 +57,108 @@ Paper list and resources on brain image (e. g. fMRI) analysis.
 1. **Deep learning for neuroimaging: a validation study**
    - *Sergey M. Plis, *  2014.
    
-1. ****
-   - ** 
+1. **The Unsupervised Hierarchical Convolutional Sparse Auto-Encoder for Neuroimaging Data Classification**
+   - *Xiaobing Han, et al.* 2015.
+   - 自动编码器，ADHD-200，ADNI数据
+   
+1. **3D fully convolutional networks for subcortical segmentation in MRI: A large-scale study**
+   - *Jose Dolz, et al.* 2016.
+   - 分割，多个数据集
+   
+1. **Brain Age Prediction Based On Resting-state Functional Connectivity Patterns Using Convolutional Neural Networks**
+   - *Hongming Li* 
+   - 3D, t-SNE结果分析
+
+
+1. **Automatic Recognition of fMRI-derived Functional Networks using 3D Convolutional Neural Networks**
+   - *Yu Zhao, et al.*  2017.
+   
+   
+1. **Multi-Scale 3D Convolutional Neural Networks for Lesion Segmentation in Brain MRI**
+   - *Konstantinos Kamnitsas, et al.*
+   
+   
+1. **Neuroscience meets Deep Learning**
+   - *Dhruv Nathawani, et al.* 
+   - CNN, CMU 2008数据
+   
+1. **3D CNN Based Automatic Diagnosis of Attention Deficit Hyperactivity Disorder Using Functional and Structural MRI**
+   - *LIANG ZOU, et al.*  2017.
+   
+1. **3D Deep Learning for Multi-modal Imaging-Guided Survival Time Prediction of Brain Tumor Patients**
+   - *Dong Nie, et al.*  2016.
+   - 多模态
+   
+1. **3-D Functional Brain Network Classification using Convolutional Neural Networks**
+   - *Dehua Ren, et al.* 2017.
+   
+1. **Group-wise Sparse Representation Of Resting-state fMRI Data For Better Understanding Of Schizophrenia**
+   - *Lin Yuan, et al.*  2017.
+   
+1. **Alzheimer's Disease Classification Based on Combination of Multi-model Convolutional Networks**
+   - *Fan Li, et al.*  2017.
+   - 使用多个多尺度的3D 卷积自动编码器
+   
+
+1. **Multi-tasks Deep Learning Model for classifying MRI images of AD/MCI Patients**
+   - *S.Sambath Kumar, et al.*  2017.
+   
+1. **Retrospective head motion estimation in structural brain MRI with 3D CNNs**
+   - *Juan Eugenio Iglesias, et al.* 
+   - 识别头部是否移动，提高ABIDE预测准确率。
    
 1. ****
    - ** 
-   
 1. ****
-   - ** 
+   - **
    
-1. ****
-   - **    
+1. **3D CNN-based classification using sMRI and MD-DTI images for Alzheimer disease studies**
+   - *Alexander Khvostikov, et al.* 2018.
+   - 数据：sMRI,DTI
+   
+
+   
+
+   
+1. **基于卷积神经网络的ADHD的判别分析**
+   - *俞一云，何良华* 2017.
+
+##### sMRI and other data
+   
+1. **Alzheimer’s Disease Diagnostics By Adaptation Of 3d Convolutional Network**
+   - *Ehsan Hosseini-Asl, et al.*  2016.
+   - 数据：sMRI
+   
+1. **Alzheimer’s disease diagnostics by a 3D deeply supervised adaptable convolutional network**
+   - *Ehsan Hosseini Asl, et al.*  2018.
+   - 数据：sMRI ADNI, 迁移学习与域适应
+   
+   
+1. **Deep MRI brain extraction: A 3D convolutional neural network for skull stripping**
+   - *Jens Kleesiek, et al.* 2016. 
+   - 数据：sMRI
+
+1. **Predicting Alzheimer’s disease: a neuroimaging study with 3D convolutional neural networks**
+   - *Adrien Payan and Giovanni Montana* 2015.
+   - 数据：sMRI
+   
+1. **Automatic Detection Of Cerebral Microbleeds Via Deep Learning Based 3d Feature Representation**
+   - *Hao Chen, et al.*  2015.
+   - 数据：SWI
+   
+1. **learning representations from eeg with deep recurrent-convolutional neural networks**
+   - *Pouya Bashivan, et al.*  ICLR 2016.
+   - 数据：EEG
+
+1. **Classification of Clinical Significance of MRI Prostate Findings Using 3D Convolutional Neural Networks**
+   - *Alireza Mehrtash, et al.*
+   - 数据：Multi-parametric magnetic resonance imaging (mpMRI), DWI and DCE-MRI modalities
+   
+1. **Marginal Space Deep Learning: Efficient Architecture for Detection in Volumetric Image Data**
+   - *Florin C. Ghesu, et al.* 
+   - 数据：超声，非脑成像，2D到nD
+   
+   
    
 #### Non-deep-learning for voxel
 1. **Multi-way Multi-level Kernel Modeling for Neuroimaging Classification**
@@ -83,8 +170,9 @@ Paper list and resources on brain image (e. g. fMRI) analysis.
 
 ## Resting-state fMRI on region level 
 ##### Deep learning for region
-1. ****
-   - ** 
+1. **Resting State fMRI Functional Connectivity-Based Classification Using a Convolutional Neural Network Architecture**
+   - *Regina Júlia Meszlényi, et al.* 2017.
+   - 499个脑区的网络用CNN
    
 1. ****
    - ** 
@@ -108,17 +196,18 @@ Paper list and resources on brain image (e. g. fMRI) analysis.
    - *Umut Guclu, et al.* 
    - 用DNN测人脑对音乐的反应。
    
-1. ****
-   - ** 
+1. **DEEP LEARNING FOR BRAIN DECODING**
+   - *Orhan Firat, et al.*  2014.
    
-1. ****
-   - **
+1. **Learning Representation for fMRI Data Analysis using Autoencoder**
+   - *Suwatchai Kamonsantiroj, et al.* 2016.
+   - 自动编码器, CMU 2008数据
    
-1. ****
-   - ** 
+1. **modeling task fMRI data via deep convolutional autoencoder**
+   - *Heng Huang, et al.*  2017.
    
-1. ****
-   - ** 
+1. **Learning Deep Temporal Representations for fMRI Brain Decoding**
+   - *Orhan Firat, et al.* 2015.
    
 1. ****
    - ** 
