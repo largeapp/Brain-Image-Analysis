@@ -173,6 +173,14 @@ Paper list and resources on brain image (e. g. fMRI) analysis.
    - *Julien Dubois* 2016.
    - 从组到个体的研究
    
+1. **Feature fusion via hierarchical supervised local CCA for diagnosis of autism spectrum disorder**
+   - *Feng Zhao, et al.*  2016.
+   - 不同特征融合，多模态数据
+   
+
+   
+   
+   
 
 ## Resting-state fMRI on region level 
 ##### Deep learning for region
@@ -187,7 +195,9 @@ Paper list and resources on brain image (e. g. fMRI) analysis.
 #### Non-deep-learning for region
 1. **Resting-State Functional Connectivity in Autism Spectrum Disorders: A Review**
    - *Jocelyn V. Hull, et al.*  2017.
-   
+
+1. **A Novel Approach to Identifying a Neuroimaging Biomarker for Patients With Serious Mental Illness**
+   - *Alok Madan, et al.*
    
 1. ****
    - **
@@ -268,7 +278,7 @@ Paper list and resources on brain image (e. g. fMRI) analysis.
    - [openneuro](https://openneuro.org/)
    
 1. Parkinson's Progression Markers Initiative (PPMI)
-   -[PPMI](https://www.ppmi-info.org/)
+   - [PPMI](https://www.ppmi-info.org/)
    
 1. Autism Brain Imaging Data Exchange (ABIDE)
    - [ABIDE](http://fcon_1000.projects.nitrc.org/indi/abide/)
