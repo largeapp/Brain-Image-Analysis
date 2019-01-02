@@ -14,6 +14,10 @@ Paper list and resources on brain image (e. g. fMRI) analysis.
 ## Survey
 1. **Deep Learning in Medical Image Analysis**
    - *Dinggang Shen, et al.*   2017.
+   
+1. **Applications of Deep Learning to MRI Images: A Survey**
+   - *Jin Liu, et al.*  2018.
+   - [paper](https://www.researchgate.net/profile/Jin_Liu20/publication/323491805_Applications_of_deep_learning_to_MRI_images_A_survey/links/5aa0be5caca272d448b2175f/Applications-of-deep-learning-to-MRI-images-A-survey.pdf)
 
 ## Resting-state fMRI on voxel level 
 #### Deep learning for voxel
@@ -223,8 +227,9 @@ Paper list and resources on brain image (e. g. fMRI) analysis.
    - *Umut Guclu, et al.* 
    - 用DNN测人脑对音乐的反应。
    
-1. **DEEP LEARNING FOR BRAIN DECODING**
+1. **deep learning for brain decoding**
    - *Orhan Firat, et al.*  2014.
+   - 自编码器
    
 1. **Learning Representation for fMRI Data Analysis using Autoencoder**
    - *Suwatchai Kamonsantiroj, et al.* 2016.
@@ -232,6 +237,7 @@ Paper list and resources on brain image (e. g. fMRI) analysis.
    
 1. **modeling task fMRI data via deep convolutional autoencoder**
    - *Heng Huang, et al.*  2017.
+   - 卷积自动编码器
    
 1. **Learning Deep Temporal Representations for fMRI Brain Decoding**
    - *Orhan Firat, et al.* 2015.
