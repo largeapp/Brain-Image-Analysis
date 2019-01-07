@@ -135,6 +135,7 @@ Paper list and resources on brain image (e. g. fMRI) analysis.
    
 1. **基于卷积神经网络的ADHD的判别分析**
    - *俞一云，何良华* 2017.
+   - [本科毕设PPT](https://wenku.baidu.com/view/606cb472974bcf84b9d528ea81c758f5f61f29da.html)
 
 #### sMRI and other data
    
