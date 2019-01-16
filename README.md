@@ -206,7 +206,12 @@ Paper list and resources on brain image (e. g. fMRI) analysis.
    
 1. **Identifying Connectivity Patterns for Brain Diseases via Multi-side-view Guided Deep Architectures**
    - *Jingyuan Zhang, et al.*  2016.
-  
+ 
+1. **Do Deep Neural Networks Outperform Kernel Regression for Functional Connectivity Prediction of Behavior?**
+   - *Tong He, et al.* 2018.
+   - [paper](https://www.biorxiv.org/content/biorxiv/early/2018/11/19/473603.full.pdf)
+   - 精简版：**Is deep learning better than kernel regression for functional connectivity prediction of fluid intelligence?** [paper](http://holmeslab.yale.edu/wp-content/uploads/2018-He.pdf)
+
 
 #### Non-deep-learning for region
 1. **Resting-State Functional Connectivity in Autism Spectrum Disorders: A Review**
