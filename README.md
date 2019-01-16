@@ -10,6 +10,7 @@ Paper list and resources on brain image (e. g. fMRI) analysis.
 5. [Parkinson](#Parkinson)
 6. [Depression](#depression)
 7. [Dataset](#dataset)
+8. [Multiview learning](https://github.com/largeapp/multi-view-learning)
 
 ## Survey
 1. **Deep Learning in Medical Image Analysis**
