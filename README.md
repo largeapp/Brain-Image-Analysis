@@ -21,7 +21,7 @@ Paper list and resources on brain image (e. g. fMRI) analysis.
    - [paper](https://www.researchgate.net/profile/Jin_Liu20/publication/323491805_Applications_of_deep_learning_to_MRI_images_A_survey/links/5aa0be5caca272d448b2175f/Applications-of-deep-learning-to-MRI-images-A-survey.pdf)
    
 1. **A Comprehensive Survey on Graph Neural Networks**
-   - *Zonghan Wu* 2019.
+   - *Zonghan Wu, et al.* 2019.
    - [paper](https://arxiv.org/pdf/1901.00596.pdf)
    - [中文解读](https://mp.weixin.qq.com/s/0rs8Wur7Iv6jSpFz5C-KNg)
 
