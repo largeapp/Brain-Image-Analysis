@@ -24,6 +24,8 @@ Paper list and resources on brain image (e. g. fMRI) analysis.
    - *Zonghan Wu, et al.* 2019.
    - [paper](https://arxiv.org/pdf/1901.00596.pdf)
    - [中文解读](https://mp.weixin.qq.com/s/0rs8Wur7Iv6jSpFz5C-KNg)
+   - More graph neural networks (GNN) papers, see [GNN-paper-list](https://github.com/largeapp/GNNPapers)
+
 
 ## Resting-state fMRI on voxel level 
 #### Deep learning for voxel
