@@ -8,7 +8,7 @@ Paper list and resources on brain image (e. g. fMRI) analysis.
 3. [Resting-state fMRI (region)](#Resting-state-fMRI-on-region-level )  
 4. [Task fMRI](#task-fmri)
 5. [sMRI and others](#sMRI-and-other-data)
-6. Special diseases: [Parkinson](#Parkinson), [Depression disease](#depression)
+6. Special diseases: [Parkinson](#Parkinson), [Depression](#depression)
 7. [Dataset](#dataset)
 8. Other algorithms: [Multiview learning](https://github.com/largeapp/multi-view-learning)
 
