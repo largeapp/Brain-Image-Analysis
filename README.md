@@ -4,13 +4,14 @@ Paper list and resources on brain image (e. g. fMRI) analysis.
 ##### Table of Contents  
 
 1. [Survey](#survey)  
-2. [Resting-state fMRI on voxel level](#Resting-state-fMRI-on-voxel-level)
-3. [Resting-state fMRI on region level ](#Resting-state-fMRI-on-region-level )  
-4. [Task fMRI](#task-fmri) 
-5. [Parkinson](#Parkinson)
-6. [Depression](#depression)
-7. [Dataset](#dataset)
-8. [Multiview learning](https://github.com/largeapp/multi-view-learning)
+2. [Resting-state fMRI (voxel)](#Resting-state-fMRI-on-voxel-level)
+3. [Resting-state fMRI (region)](#Resting-state-fMRI-on-region-level )  
+4. [Task fMRI](#task-fmri)
+5. [sMRI and others](#sMRI-and-other-data)
+6. [Parkinson](#Parkinson)
+7. [Depression](#depression)
+8. [Dataset](#dataset)
+9. [Multiview learning](https://github.com/largeapp/multi-view-learning)
 
 ## Survey
 1. **Deep Learning in Medical Image Analysis**
@@ -143,46 +144,7 @@ Paper list and resources on brain image (e. g. fMRI) analysis.
    - *俞一云，何良华* 2017.
    - [PPT](https://wenku.baidu.com/view/606cb472974bcf84b9d528ea81c758f5f61f29da.html)
 
-#### sMRI and other data
-   
-1. **Alzheimer’s Disease Diagnostics By Adaptation Of 3d Convolutional Network**
-   - *Ehsan Hosseini-Asl, et al.*  2016.
-   - 数据：sMRI
-   
-1. **Alzheimer’s disease diagnostics by a 3D deeply supervised adaptable convolutional network**
-   - *Ehsan Hosseini Asl, et al.*  2018.
-   - 数据：sMRI ADNI, 迁移学习与域适应
-
-1. **3D CNN-based classification using sMRI and MD-DTI images for Alzheimer disease studies**
-   - *Alexander Khvostikov, et al.* 2018.
-   - 数据：sMRI,DTI
-   
-1. **Deep MRI brain extraction: A 3D convolutional neural network for skull stripping**
-   - *Jens Kleesiek, et al.* 2016. 
-   - 数据：sMRI
-
-1. **Predicting Alzheimer’s disease: a neuroimaging study with 3D convolutional neural networks**
-   - *Adrien Payan and Giovanni Montana* 2015.
-   - 数据：sMRI
-   
-1. **Automatic Detection Of Cerebral Microbleeds Via Deep Learning Based 3d Feature Representation**
-   - *Hao Chen, et al.*  2015.
-   - 数据：SWI
-   
-1. **learning representations from eeg with deep recurrent-convolutional neural networks**
-   - *Pouya Bashivan, et al.*  ICLR 2016.
-   - 数据：EEG
-
-1. **Classification of Clinical Significance of MRI Prostate Findings Using 3D Convolutional Neural Networks**
-   - *Alireza Mehrtash, et al.*
-   - 数据：Multi-parametric magnetic resonance imaging (mpMRI), DWI and DCE-MRI modalities
-   
-1. **Marginal Space Deep Learning: Efficient Architecture for Detection in Volumetric Image Data**
-   - *Florin C. Ghesu, et al.* 
-   - 数据：超声，非脑成像，2D到nD
-   
-   
-   
+  
 #### Non-deep-learning for voxel
 1. **Multi-way Multi-level Kernel Modeling for Neuroimaging Classification**
    - *Lifang He, et al.*   CVPR 2017.
@@ -262,6 +224,45 @@ Paper list and resources on brain image (e. g. fMRI) analysis.
 1. **Improving accuracy and power with transfer learning using a meta-analytic database**
    - *Yannick Schwartz, et al.* 2012.
    - 迁移学习
+ 
+ 
+## sMRI and other data
+   
+1. **Alzheimer’s Disease Diagnostics By Adaptation Of 3d Convolutional Network**
+   - *Ehsan Hosseini-Asl, et al.*  2016.
+   - 数据：sMRI
+   
+1. **Alzheimer’s disease diagnostics by a 3D deeply supervised adaptable convolutional network**
+   - *Ehsan Hosseini Asl, et al.*  2018.
+   - 数据：sMRI ADNI, 迁移学习与域适应
+
+1. **3D CNN-based classification using sMRI and MD-DTI images for Alzheimer disease studies**
+   - *Alexander Khvostikov, et al.* 2018.
+   - 数据：sMRI,DTI
+   
+1. **Deep MRI brain extraction: A 3D convolutional neural network for skull stripping**
+   - *Jens Kleesiek, et al.* 2016. 
+   - 数据：sMRI
+
+1. **Predicting Alzheimer’s disease: a neuroimaging study with 3D convolutional neural networks**
+   - *Adrien Payan and Giovanni Montana* 2015.
+   - 数据：sMRI
+   
+1. **Automatic Detection Of Cerebral Microbleeds Via Deep Learning Based 3d Feature Representation**
+   - *Hao Chen, et al.*  2015.
+   - 数据：SWI
+   
+1. **learning representations from eeg with deep recurrent-convolutional neural networks**
+   - *Pouya Bashivan, et al.*  ICLR 2016.
+   - 数据：EEG
+
+1. **Classification of Clinical Significance of MRI Prostate Findings Using 3D Convolutional Neural Networks**
+   - *Alireza Mehrtash, et al.*
+   - 数据：Multi-parametric magnetic resonance imaging (mpMRI), DWI and DCE-MRI modalities
+   
+1. **Marginal Space Deep Learning: Efficient Architecture for Detection in Volumetric Image Data**
+   - *Florin C. Ghesu, et al.* 
+   - 数据：超声，非脑成像，2D到nD
    
 
 ## Parkinson 
