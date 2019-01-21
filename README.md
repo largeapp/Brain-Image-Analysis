@@ -1,5 +1,5 @@
 # Brain-Image-Analysis
-Paper list and resources on brain image (e. g. fMRI ) analysis. 
+Paper list and resources on brain image (e. g. fMRI and sMRI) analysis. 
 
 Contributed by Jinlong Hu, Yuezhen Kuang and Lijie Cao.
 
