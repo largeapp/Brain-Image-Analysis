@@ -184,6 +184,22 @@ Contributed by Jinlong Hu, Yuezhen Kuang and Lijie Cao.
    - [paper](https://www.biorxiv.org/content/biorxiv/early/2018/11/19/473603.full.pdf)
    - 精简版：**Is deep learning better than kernel regression for functional connectivity prediction of fluid intelligence?** [paper](http://holmeslab.yale.edu/wp-content/uploads/2018-He.pdf)
 
+1. **Metric learning with spectral graph convolutions on brain connectivity networks**
+   -*Sofia IraKtena, et al.* 2018
+   - [paper](https://www.sciencedirect.com/science/article/pii/S1053811917310765)
+   
+1. **Multi Layered-Parallel Graph Convolutional Network (ML-PGCN) for Disease Prediction**
+   - *Anees Kazi, Shadi Albarqouni, Karsten Kortuem, Nassir Navab* 2018.
+   - [paper](https://arxiv.org/abs/1804.10776)
+   
+1. **Classifying resting and task state brain connectivity matrices using graph convolutional networks**
+   - *Michael Craig, et al.* 
+   - [paper](https://www.researchgate.net/profile/Michael_Craig15/publication/320347164_Classifying_resting_and_task_state_brain_connectivity_matrices_using_graph_convolutional_networks/links/5a38db04458515919e7278ab/Classifying-resting-and-task-state-brain-connectivity-matrices-using-graph-convolutional-networks.pdf)
+   
+1. **Multi-View Graph Convolutional Network and Its Applications on Neuroimage Analysis for Parkinson's Disease**
+   - *xi zhang, et al.* 2018.
+   - [paper](https://arxiv.org/abs/1805.08801)
+   -  数据：PPMI, DTI
 
 #### Non-deep-learning for region
 1. **Resting-State Functional Connectivity in Autism Spectrum Disorders: A Review**
