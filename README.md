@@ -218,12 +218,10 @@ Contributed by Jinlong Hu, Yuezhen Kuang and Lijie Cao.
    
 #### Special issue 
  Contributed by Lijie
-1. **Spectral Graph Convolutions for Population-Based Disease Prediction** 
-   - 2017.
+1. **Spectral Graph Convolutions for Population-Based Disease Prediction** 2017.
    - 以人为节点构建图，应用GCN半监督学习
 
-1. **Distance Metric Learning using Graph Convolutional Networks: Application to Functional Brain Networks**
-   - 2017.
+1. **Distance Metric Learning using Graph Convolutional Networks: Application to Functional Brain Networks** 2017.
    - 一个脑作为一幅图，以脑区为节点，应用GCN孪生网络进行度量学习
    
 1. **Disease Prediction using Graph Convolutional Networks: Application to Autism Spectrum Disorder and Alzheimer’s Disease**
