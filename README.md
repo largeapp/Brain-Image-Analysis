@@ -7,7 +7,7 @@ Contributed by Jinlong Hu, Yuezhen Kuang and Lijie Cao.
 
 1. [Survey](#survey)  
 2. [Resting-state fMRI (voxel)](#Resting-state-fMRI-on-voxel-level)
-3. [Resting-state fMRI (region)](#Resting-state-fMRI-on-region-level )  
+3. [Resting-state fMRI (region)](#Resting-state-fMRI-on-region-level) : [Special issue](#Special-issue)
 4. [Task fMRI](#task-fmri)
 5. [sMRI and others](#sMRI-and-other-data)
 6. Special diseases: [Parkinson](#Parkinson), [Depression](#depression)
@@ -215,6 +215,38 @@ Contributed by Jinlong Hu, Yuezhen Kuang and Lijie Cao.
 1. **全图表征学习的研究进展**
    - 唐建，中国计算机学会通讯，2018.03
    - 全图嵌入方法
+   
+#### Special issue 
+ Contributed by Lijie
+1. **Spectral Graph Convolutions for Population-Based Disease Prediction** 
+   - 2017.
+   - 以人为节点构建图，应用GCN半监督学习
+
+1. **Distance Metric Learning using Graph Convolutional Networks: Application to Functional Brain Networks**
+   - 2017.
+   - 一个脑作为一幅图，以脑区为节点，应用GCN孪生网络进行度量学习
+   
+1. **Disease Prediction using Graph Convolutional Networks: Application to Autism Spectrum Disorder and Alzheimer’s Disease**
+1. **Multi Layered-Parallel Graph Convolutional Network (ML-PGCN) for Disease Prediction**
+1. **SELF-ATTENTION EQUIPPED GRAPH CONVOLUTIONS FOR DISEASE PREDICTION**
+   - 论文3、4、5皆是在1上改进扩展
+
+1. **Metric Learning with Spectral Graph Convolutions on Brain Connectivity Networks**
+   - 是论文2的扩展，更详细有深度地描述
+
+1. **Similarity Learning with Higher-Order Proximity for Brain Network Analysis**
+   - 基于论文6做的改进, 论文7引入了图的高阶信息
+   
+1. **Multi-View Graph Convolutional Network and Its Applicationson Neuroimage Analysis for Parkinson’sDisease**
+   - 基于论文6做的改进, 引入了多模态
+   
+1. **Graph Saliency Maps through Spectral Convolutional Networks: Application to Sex Classiﬁcation with Brain Connectivity**
+   - 基于论文6做的改进,使结果可解释
+   
+1. **Integrative Analysis of Patient Health Records and Neuroimages via Memory-based Graph Convolutional Network**
+   - 基于论文6做的改进, 引入了多模态
+
+
 
 ## task fMRI
 #### Deep learning for voxel
