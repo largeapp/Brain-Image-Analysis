@@ -227,10 +227,10 @@ Contributed by Jinlong Hu, Yuezhen Kuang and Lijie Cao.
 1. **Disease Prediction using Graph Convolutional Networks: Application to Autism Spectrum Disorder and Alzheimer’s Disease**
 1. **Multi Layered-Parallel Graph Convolutional Network (ML-PGCN) for Disease Prediction**
 1. **SELF-ATTENTION EQUIPPED GRAPH CONVOLUTIONS FOR DISEASE PREDICTION**
-   - 论文3、4、5皆是在1上改进扩展
+   - 论文3、4、5是在1上改进扩展
 
 1. **Metric Learning with Spectral Graph Convolutions on Brain Connectivity Networks**
-   - 是论文2的扩展，更详细有深度地描述
+   - 是论文2的扩展，更详细地系统描述
 
 1. **Similarity Learning with Higher-Order Proximity for Brain Network Analysis**
    - 基于论文6做的改进, 论文7引入了图的高阶信息
