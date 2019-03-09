@@ -10,7 +10,7 @@ Contributed by Jinlong Hu, Yuezhen Kuang and Lijie Cao.
 3. [Resting-state fMRI (region)](#Resting-state-fMRI-on-region-level) : [Special issue](#Special-issue)
 4. [Task fMRI](#task-fmri)
 5. [sMRI and others](#sMRI-and-other-data)
-6. Special diseases: [Parkinson](#Parkinson), [Depression](#depression)
+6. Special diseases: [Parkinson](#Parkinson), [Autism](#Autism), [Depression](#depression)
 7. [Dataset](#dataset)
 8. Other algorithms: [Multiview learning](#Multiview-learning)
 
@@ -358,7 +358,21 @@ Contributed by Jinlong Hu, Yuezhen Kuang and Lijie Cao.
 1. **The Parkinson’s progression markers initiative (PPMI) – establishing a PD biomarker cohort**
    - *Kenneth Marek, et al.* 2018.
    - PPMI 数据描述
+ 
+## Autism
+
+1. **Predicting autism spectrum disorder using domain-adaptive cross-site evaluation**
+   - *Bhaumik R, Pradhan A, Das S, et al. * Neuroinformatics, 2018.
+   - dataset: ABIDE
    
+1. **Identification of autism spectrum disorder using deep learning and the ABIDE dataset**
+   - *Heinsfeld A S, Franco A R, Craddock R C, et al. *, 2018
+   - dataset: ABIDE
+   
+1. **Age and Gender Effects on Intrinsic Connectivity in Autism Using Functional Integration and Segregation**
+   - *Teague Rhine Henry, Gabriel S. Dichter, and Kathleen Gates*, 2017
+   - dataset: ABIDE
+
 
 ## Depression
 1. **Studying depression using imaging and machine learning methods**
