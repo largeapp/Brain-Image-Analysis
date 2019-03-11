@@ -404,6 +404,11 @@ Contributed by Jinlong Hu, Yuezhen Kuang and Lijie Cao.
 1. **Age and Gender Effects on Intrinsic Connectivity in Autism Using Functional Integration and Segregation**
    - *Teague Rhine Henry, Gabriel S. Dichter, and Kathleen Gates*, 2017
    - dataset: ABIDE
+   
+1. **Enhancing the representation of functional connectivity networks by fusing multi‐view information for autism spectrum disorder diagnosis**
+   - *Huifang Huang  Xingdan Liu  Yan Jin  Seong‐Whan Lee  Chong‐Yaw Wee  Dinggang Shen*, 2018
+   - *Human brain mapping*, February 15, 2019
+   - dataset: ABIDE
 
 
 ## Depression
