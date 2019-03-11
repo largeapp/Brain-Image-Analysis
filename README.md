@@ -34,7 +34,7 @@ Contributed by Jinlong Hu, Yuezhen Kuang and Lijie Cao.
    
 #### On machine learning
 1. **Machine learning studies on major brain diseases: 5-year trends of 2014–2018**
-  - [paper](https://link.springer.com/article/10.1007/s11604-018-0794-4), 2018
+   - [paper](https://link.springer.com/article/10.1007/s11604-018-0794-4), 2018
   
 1. **Machine Learning for Predicting Cognitive Diseases: Methods, Data Sources and Risk Factors**
    - [paper](https://link.springer.com/article/10.1007/s10916-018-1071-x), 2018
