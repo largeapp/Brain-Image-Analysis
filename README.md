@@ -131,6 +131,7 @@ Contributed by Jinlong Hu, Yuezhen Kuang and Lijie Cao.
 1. **Alzheimer's Disease Classification Based on Combination of Multi-model Convolutional Networks**
    - *Fan Li, et al.*  2017.
    - 使用多个多尺度的3D 卷积自动编码器
+   - 数据：sMRI (ADNI)
    
 
 1. **Multi-tasks Deep Learning Model for classifying MRI images of AD/MCI Patients**
