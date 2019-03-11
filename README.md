@@ -358,6 +358,24 @@ Contributed by Jinlong Hu, Yuezhen Kuang and Lijie Cao.
 1. **The Parkinson’s progression markers initiative (PPMI) – establishing a PD biomarker cohort**
    - *Kenneth Marek, et al.* 2018.
    - PPMI 数据描述
+   
+1. **Multi-View Graph Convolutional Network and Its Applications on Neuroimage Analysis for Parkinson’s Disease**
+   - [paper](https://arxiv.org/pdf/1805.08801.pdf), 2018
+   - DTI
+   - 多视图，多种DTI的边的建立方法，多个图
+   
+1. **A Fully-Automatic Framework for Parkinson’s Disease Diagnosis by Multi-Modality Images**
+   - [paper](https://arxiv.org/ftp/arxiv/papers/1902/1902.09934.pdf)
+   - sMRI, PET 多模态
+   
+1. **Multi-task Sparse Low-Rank Learning for Multi-classification of Parkinson’s Disease**
+   - [paper](https://link.springer.com/chapter/10.1007/978-3-030-00889-5_41)
+   - PPMI
+   
+1. **Parkinson's Disease Diagnosis via Joint Learning from Multiple Modalities and Relations**
+   - [paper](https://ieeexplore.ieee.org/abstract/document/8453792)
+   - PPMI, 多模态  
+
  
 ## Autism
 
