@@ -23,8 +23,9 @@ Contributed by Jinlong Hu, Yuezhen Kuang and Lijie Cao.
    - *Jin Liu, et al.*  2018.
    - [paper](https://www.researchgate.net/profile/Jin_Liu20/publication/323491805_Applications_of_deep_learning_to_MRI_images_A_survey/links/5aa0be5caca272d448b2175f/Applications-of-deep-learning-to-MRI-images-A-survey.pdf)
    
-1. **Deep Learning and Deep Knowledge Representation in the Human Brain**
+/* 1. **Deep Learning and Deep Knowledge Representation in the Human Brain**
    - [paper](https://link.springer.com/chapter/10.1007/978-3-662-57715-8_3), 2018
+*/
 
 1. **A Comprehensive Survey on Graph Neural Networks**
    - *Zonghan Wu, et al.* 2019.
