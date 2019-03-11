@@ -333,6 +333,7 @@ Contributed by Jinlong Hu, Yuezhen Kuang and Lijie Cao.
    
 1. 基于结构磁共振成像的自闭症预测研究
    - 中文硕士论文，2018
+   - 数据：(ABIDE) sMRI
    
 
 ## Parkinson 
