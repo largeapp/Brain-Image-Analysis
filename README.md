@@ -128,11 +128,6 @@ Contributed by Jinlong Hu, Yuezhen Kuang and Lijie Cao.
    - 多模态：MRI, fMRI   
    
  
-1. **Alzheimer's Disease Classification Based on Combination of Multi-model Convolutional Networks**
-   - *Fan Li, et al.*  2017.
-   - 使用多个多尺度的3D 卷积自动编码器
-   - 数据：sMRI (ADNI)
-   
 
 1. **Multi-tasks Deep Learning Model for classifying MRI images of AD/MCI Patients**
    - *S.Sambath Kumar, et al.*  2017.
@@ -300,6 +295,11 @@ Contributed by Jinlong Hu, Yuezhen Kuang and Lijie Cao.
 1. **Alzheimer’s disease diagnostics by a 3D deeply supervised adaptable convolutional network**
    - *Ehsan Hosseini Asl, et al.*  2018.
    - 数据：sMRI ADNI, 迁移学习与域适应
+   
+1. **Alzheimer's Disease Classification Based on Combination of Multi-model Convolutional Networks**
+   - *Fan Li, et al.*  2017.
+   - 使用多个多尺度的3D 卷积自动编码器
+   - 数据：sMRI (ADNI)
 
 1. **3D CNN-based classification using sMRI and MD-DTI images for Alzheimer disease studies**
    - *Alexander Khvostikov, et al.* 2018.
