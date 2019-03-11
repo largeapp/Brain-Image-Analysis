@@ -331,6 +331,9 @@ Contributed by Jinlong Hu, Yuezhen Kuang and Lijie Cao.
    - *Florin C. Ghesu, et al.* 
    - 数据：超声，非脑成像，2D到nD
    
+1. 基于结构磁共振成像的自闭症预测研究
+   - 中文硕士论文，2018
+   
 
 ## Parkinson 
 1. **Discriminating cognitive status in Parkinson’s disease through functional connectomics and machine learning**
