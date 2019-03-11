@@ -15,20 +15,33 @@ Contributed by Jinlong Hu, Yuezhen Kuang and Lijie Cao.
 8. Other algorithms: [Multiview learning](#Multiview-learning)
 
 ## Survey
-#### On voxel
+#### On deep learning
 1. **Deep Learning in Medical Image Analysis**
    - *Dinggang Shen, et al.*   2017.
    
 1. **Applications of Deep Learning to MRI Images: A Survey**
    - *Jin Liu, et al.*  2018.
    - [paper](https://www.researchgate.net/profile/Jin_Liu20/publication/323491805_Applications_of_deep_learning_to_MRI_images_A_survey/links/5aa0be5caca272d448b2175f/Applications-of-deep-learning-to-MRI-images-A-survey.pdf)
+   
+1. **Deep Learning and Deep Knowledge Representation in the Human Brain**
+   - [paper](https://link.springer.com/chapter/10.1007/978-3-662-57715-8_3), 2018
 
-#### On region (network /graph)
 1. **A Comprehensive Survey on Graph Neural Networks**
    - *Zonghan Wu, et al.* 2019.
    - [paper](https://arxiv.org/pdf/1901.00596.pdf)
    - [中文解读](https://mp.weixin.qq.com/s/0rs8Wur7Iv6jSpFz5C-KNg)
    - More graph neural networks (GNN) papers, see [GNN-paper-list](https://github.com/largeapp/GNNPapers)
+   
+#### On machine learning
+1. **Machine learning studies on major brain diseases: 5-year trends of 2014–2018**
+  - [paper](https://link.springer.com/article/10.1007/s11604-018-0794-4), 2018
+  
+1. **Machine Learning for Predicting Cognitive Diseases: Methods, Data Sources and Risk Factors**
+   - [paper](https://link.springer.com/article/10.1007/s10916-018-1071-x), 2018
+  
+1. **Adaptive Sparse Learning for Neurodegenerative Disease Classification**
+   - [paper](https://ieeexplore.ieee.org/abstract/document/8241617), 2017
+
    
 ## Resting-state fMRI on voxel level 
 #### Deep learning for voxel
