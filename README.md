@@ -393,7 +393,14 @@ Contributed by Jinlong Hu, Yuezhen Kuang and Lijie Cao.
 
  
 ## Autism
-
+1. **The Autism Brain Imaging Data Exchange: Towards Large-Scale Evaluation of the Intrinsic Brain Architecture in Autism**
+   - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4162310/)
+   - ABIDE 1 论文
+   
+1. **Enhancing studies of the connectome in autism using the autism brain imaging data exchange II**
+   - [paper](https://www.nature.com/articles/sdata201710)
+   - ABIDE 2 论文
+   
 1. **Predicting autism spectrum disorder using domain-adaptive cross-site evaluation**
    - *Bhaumik R, Pradhan A, Das S, et al. * Neuroinformatics, 2018.
    - dataset: ABIDE
@@ -410,6 +417,11 @@ Contributed by Jinlong Hu, Yuezhen Kuang and Lijie Cao.
    - *Huifang Huang  Xingdan Liu  Yan Jin  Seong‐Whan Lee  Chong‐Yaw Wee  Dinggang Shen*, 2018
    - *Human brain mapping*, February 15, 2019
    - dataset: ABIDE
+   
+1. **Towards Accurate Personalized Autism Diagnosis Using Different Imaging Modalities: sMRI, fMRI, and DTI**
+   - *ElNakieb Y, Ali M T, Dekhil O, et al.*  2018 IEEE International Symposium on Signal Processing and Information Technology (ISSPIT).
+   - 多模态：sMRI, fMRI, DTI
+  
 
 
 ## Depression
