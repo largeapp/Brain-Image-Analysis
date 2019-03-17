@@ -411,8 +411,10 @@ Contributed by Jinlong Hu, Yuezhen Kuang and Lijie Cao.
    - dataset: ABIDE
    
 1. **Identification of autism spectrum disorder using deep learning and the ABIDE dataset**
-   - *Heinsfeld A S, Franco A R, Craddock R C, et al. *, 2018
+   - *Heinsfeld A S, Franco A R, Craddock R C, et al.*, 2018
    - dataset: ABIDE
+   - [paper](https://www.sciencedirect.com/science/article/pii/S2213158217302073)
+   - 算法：深度学习 DNN
    
 1. **Age and Gender Effects on Intrinsic Connectivity in Autism Using Functional Integration and Segregation**
    - *Teague Rhine Henry, Gabriel S. Dichter, and Kathleen Gates*, 2017
@@ -426,12 +428,8 @@ Contributed by Jinlong Hu, Yuezhen Kuang and Lijie Cao.
 1. **Towards Accurate Personalized Autism Diagnosis Using Different Imaging Modalities: sMRI, fMRI, and DTI**
    - *ElNakieb Y, Ali M T, Dekhil O, et al.*  2018 IEEE International Symposium on Signal Processing and Information Technology (ISSPIT).
    - 多模态：sMRI, fMRI, DTI
-  
-1. **Identification of autism spectrum disorder using deep learning and the ABIDE dataset**
-   - *Anibal SólonHeinsfeld, et al.* 2018
-   - [paper](https://www.sciencedirect.com/science/article/pii/S2213158217302073)
-   - dataset: ABIDE
-   - 算法：深度学习 DNN
+
+
 
 ## Depression
 1. **Studying depression using imaging and machine learning methods**
