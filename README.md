@@ -405,6 +405,11 @@ Contributed by Jinlong Hu, Yuezhen Kuang and Lijie Cao.
    - *Bhaumik R, Pradhan A, Das S, et al. * Neuroinformatics, 2018.
    - dataset: ABIDE
    
+1. **Promises, Pitfalls, and Basic Guidelines for Applying Machine Learning Classifiers to Psychiatric Imaging Data, with Autism as an Example**
+   - *Pegah Kassraian-Fard, et al. * 2016.
+   - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5133050/)
+   - dataset: ABIDE
+   
 1. **Identification of autism spectrum disorder using deep learning and the ABIDE dataset**
    - *Heinsfeld A S, Franco A R, Craddock R C, et al. *, 2018
    - dataset: ABIDE
