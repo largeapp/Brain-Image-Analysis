@@ -427,7 +427,11 @@ Contributed by Jinlong Hu, Yuezhen Kuang and Lijie Cao.
    - *ElNakieb Y, Ali M T, Dekhil O, et al.*  2018 IEEE International Symposium on Signal Processing and Information Technology (ISSPIT).
    - 多模态：sMRI, fMRI, DTI
   
-
+1. **Identification of autism spectrum disorder using deep learning and the ABIDE dataset**
+   - *Anibal SólonHeinsfeld, et al.* 2018
+   - [paper](https://www.sciencedirect.com/science/article/pii/S2213158217302073)
+   - dataset: ABIDE
+   - 算法：深度学习 DNN
 
 ## Depression
 1. **Studying depression using imaging and machine learning methods**
