@@ -77,7 +77,7 @@ Contributed by Jinlong Hu, Yuezhen Kuang and Lijie Cao.
    - *Saman Sarraf, Ghassem Tofighi*  2016.
   
 1. **Deep learning for neuroimaging: a validation study**
-   - *Sergey M. Plis, *  2014.
+   - *Sergey M. Plis*, 2014.
    
 1. **The Unsupervised Hierarchical Convolutional Sparse Auto-Encoder for Neuroimaging Data Classification**
    - *Xiaobing Han, et al.* 2015.
