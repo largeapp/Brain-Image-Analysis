@@ -412,7 +412,7 @@ Contributed by Jinlong Hu, Yuezhen Kuang and Lijie Cao.
    - dataset: ABIDE
    
 1. **Identification of autism spectrum disorder using deep learning and the ABIDE dataset**
-   - *Heinsfeld A S, Franco A R, Craddock R C, et al.*, 2018
+   - *Heinsfeld A S, Franco A R, Craddock R C, et al.* , 2018
    - dataset: ABIDE
    - [paper](https://www.sciencedirect.com/science/article/pii/S2213158217302073)
    - 算法：深度学习 DNN
