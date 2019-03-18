@@ -402,12 +402,12 @@ Contributed by Jinlong Hu, Yuezhen Kuang and Lijie Cao.
    - ABIDE 2 论文
    
 1. **Predicting autism spectrum disorder using domain-adaptive cross-site evaluation**
-   - *Bhaumik R, Pradhan A, Das S, et al. * Neuroinformatics, 2018.
+   - *Bhaumik R, Pradhan A, Das S, et al.*, Neuroinformatics, 2018.
    - [paper](https://link.springer.com/article/10.1007/s12021-018-9366-0)
    - dataset: ABIDE
    
 1. **Promises, Pitfalls, and Basic Guidelines for Applying Machine Learning Classifiers to Psychiatric Imaging Data, with Autism as an Example**
-   - *Pegah Kassraian-Fard, et al. * 2016.
+   - *Pegah Kassraian-Fard, et al.*, 2016.
    - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5133050/)
    - dataset: ABIDE
    
