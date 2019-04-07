@@ -2,7 +2,19 @@ Open Data and other resources for Parkinson's disease data analysis.
 
 Contributed by Jinlong Hu.
 
-## Brain image data
+## Brain diseases
+1. https://en.wikipedia.org/wiki/Neurodegeneration
+1. https://en.wikipedia.org/wiki/Parkinson%27s_disease
+
+
+## Python Packages for Brain Imaging
+1. nilearn: Neural Networks for neuro-imaging + pre-processed fMRI datasets 
+   - [nilearn](https://nilearn.github.io/introduction.html)
+   
+1. niBabel: data processing for MRI
+   - [nibabel](http://nipy.org/nibabel/gettingstarted.html)
+
+## Brain imaging data
 1. Parkinson's Progression Markers Initiative (PPMI)
    - [PPMI](https://www.ppmi-info.org/)
    - Type: fMRI, sMRI, DTI...
