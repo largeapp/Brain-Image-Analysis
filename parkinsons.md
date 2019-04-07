@@ -40,8 +40,11 @@ Contributed by Jinlong Hu.
    - [data](https://archive.ics.uci.edu/ml/datasets/Parkinson%27s+Disease+Classification)
    - [Paper](https://www.sciencedirect.com/science/article/pii/S1568494618305799?via%3Dihub)
 
-1. https://archive.ics.uci.edu/ml/datasets/Parkinson+Speech+Dataset+with++Multiple+Types+of+Sound+Recordings 
-1. https://archive.ics.uci.edu/ml/datasets/Parkinson+Disease+Spiral+Drawings+Using+Digitized+Graphics+Tablet
+1. Parkinson Speech Dataset with Multiple Types of Sound Recordings Data Set 
+   - [data](https://archive.ics.uci.edu/ml/datasets/Parkinson+Speech+Dataset+with++Multiple+Types+of+Sound+Recordings) 
+   
+1. Parkinson Disease Spiral Drawings Using Digitized Graphics Tablet Data Set 
+   - [data](https://archive.ics.uci.edu/ml/datasets/Parkinson+Disease+Spiral+Drawings+Using+Digitized+Graphics+Tablet)
 
 #### Physiomed datasets - Keystrokes, Tremors and Gait:
 1. Gait in Parkinson’s Disease
