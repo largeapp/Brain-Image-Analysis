@@ -27,7 +27,7 @@ Contributed by Jinlong Hu.
    - 2D
 
 1. Parkinson's Disease Classification Data Set Speech
-  - [data](https://archive.ics.uci.edu/ml/datasets/Parkinson%27s+Disease+Classification)
-  - [Paper](https://www.sciencedirect.com/science/article/pii/S1568494618305799?via%3Dihub)
+   - [data](https://archive.ics.uci.edu/ml/datasets/Parkinson%27s+Disease+Classification)
+   - [Paper](https://www.sciencedirect.com/science/article/pii/S1568494618305799?via%3Dihub)
   
 
