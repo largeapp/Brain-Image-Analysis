@@ -1,4 +1,5 @@
 Open Data and other resources on machine learning for Parkinson's disease analysis.
+
 Contributed by Jinlong Hu.
 
 ## Brain image data
@@ -27,4 +28,6 @@ Contributed by Jinlong Hu.
 
 1. Parkinson's Disease Classification Data Set Speech
   - [data](https://archive.ics.uci.edu/ml/datasets/Parkinson%27s+Disease+Classification)
-  - Paper: A comparative analysis of speech signal processing algorithms for Parkinsonâ€™s disease classification and the use of the tunable Q-factor wavelet transform.
+  - [Paper](https://www.sciencedirect.com/science/article/pii/S1568494618305799?via%3Dihub)
+  
+
