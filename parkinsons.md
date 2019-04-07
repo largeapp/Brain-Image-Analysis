@@ -48,11 +48,11 @@ Contributed by Jinlong Hu.
   
 
 ## other doc
-https://jamanetwork.com/collections/5826/parkinson-disease
-https://www.futurity.org/algorithm-medical-records-parkinsons-1544852/
-https://www.ninds.nih.gov/Disorders/All-Disorders/Parkinsons-Disease-Information-Page
-https://www.epda.eu.com/latest/resources/pd-doc/
-http://www.mayfieldclinic.com/PE-PD.htm
-https://www.michaeljfox.org/
-https://parkinsonsnewstoday.com/
-https://www.webmd.com/parkinsons-disease/parkinsons-disease-overview#1
+1. https://jamanetwork.com/collections/5826/parkinson-disease
+1. https://www.futurity.org/algorithm-medical-records-parkinsons-1544852/
+1. https://www.ninds.nih.gov/Disorders/All-Disorders/Parkinsons-Disease-Information-Page
+1. https://www.epda.eu.com/latest/resources/pd-doc/
+1. http://www.mayfieldclinic.com/PE-PD.htm
+1. https://www.michaeljfox.org/
+1. https://parkinsonsnewstoday.com/
+1. https://www.webmd.com/parkinsons-disease/parkinsons-disease-overview#1
