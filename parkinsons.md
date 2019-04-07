@@ -46,8 +46,12 @@ Contributed by Jinlong Hu.
    - [data-paper](https://physionet.org/pn3/gaitpdb/)
    - other data: [Gait and Balance Databases](https://physionet.org/physiobank/database/)
   
+## Diagnosis & Treatments
+1. https://en.wikipedia.org/wiki/Management_of_Parkinson%27s_disease 
+1. https://en.wikipedia.org/wiki/Antiparkinson_medication 
+1. https://en.wikipedia.org/wiki/Dietary_management_of_Parkinson%27s_disease
 
-## other doc
+## Other doc
 1. https://jamanetwork.com/collections/5826/parkinson-disease
 1. https://www.futurity.org/algorithm-medical-records-parkinsons-1544852/
 1. https://www.ninds.nih.gov/Disorders/All-Disorders/Parkinsons-Disease-Information-Page
