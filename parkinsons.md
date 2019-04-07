@@ -1,4 +1,4 @@
-Open Data and other resources on machine learning for Parkinson's disease analysis.
+Open Data and other resources for Parkinson's disease data analysis.
 
 Contributed by Jinlong Hu.
 
