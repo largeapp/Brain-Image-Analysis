@@ -21,7 +21,7 @@ Contributed by Jinlong Hu.
 
 1. Olfactory dysfunction and functional connectivity changes in cognitively normal Parkinson’s disease
    - [openfmri-parkinson](https://www.openfmri.org/dataset/ds000245/)
-   - Type: fMRI
+   - Type: fMRI  
 
 1. paper: White matter alterations in Parkinson's disease with normal cognition precede grey matter atrophy
    - [data](https://datadryad.org/resource/doi:10.5061/dryad.b4q8k)
@@ -47,3 +47,12 @@ Contributed by Jinlong Hu.
    - other data: [Gait and Balance Databases](https://physionet.org/physiobank/database/)
   
 
+## other doc
+https://jamanetwork.com/collections/5826/parkinson-disease
+https://www.futurity.org/algorithm-medical-records-parkinsons-1544852/
+https://www.ninds.nih.gov/Disorders/All-Disorders/Parkinsons-Disease-Information-Page
+https://www.epda.eu.com/latest/resources/pd-doc/
+http://www.mayfieldclinic.com/PE-PD.htm
+https://www.michaeljfox.org/
+https://parkinsonsnewstoday.com/
+https://www.webmd.com/parkinsons-disease/parkinsons-disease-overview#1
