@@ -34,17 +34,33 @@ Contributed by Jinlong Hu.
 
 
 ## Computerized assessments data (Gait, video, speech...)
+
+#### UCI ML repository datasets on PD:
+1. Parkinson's Disease Classification Data Set (Speech)
+   - [data](https://archive.ics.uci.edu/ml/datasets/Parkinson%27s+Disease+Classification)
+   - [Paper](https://www.sciencedirect.com/science/article/pii/S1568494618305799?via%3Dihub)
+
+1. https://archive.ics.uci.edu/ml/datasets/Parkinson+Speech+Dataset+with++Multiple+Types+of+Sound+Recordings 
+1. https://archive.ics.uci.edu/ml/datasets/Parkinson+Disease+Spiral+Drawings+Using+Digitized+Graphics+Tablet
+
+#### Physiomed datasets - Keystrokes, Tremors and Gait:
+1. Gait in Parkinson’s Disease
+   - [data-paper](https://physionet.org/pn3/gaitpdb/)
+   - other data: [Gait and Balance Databases](https://physionet.org/physiobank/database/)
+
+1. https://physionet.org/physiobank/database/nqmitcsxpd/
+1. https://physionet.org/physiobank/database/tremordb/
+1. https://physionet.org/physiobank/database/gaitndd/
+1. https://physionet.org/physiobank/database/gaitdb/
+1. https://physionet.org/physiobank/database/gaitpdb/
+
+#### Others
+
 1. Parkinson's Pose Estimation Dataset
    - [data-code](https://github.com/limi44/Parkinson-s-Pose-Estimation-Dataset)
    - 2D
 
-1. Parkinson's Disease Classification Data Set (Speech)
-   - [data](https://archive.ics.uci.edu/ml/datasets/Parkinson%27s+Disease+Classification)
-   - [Paper](https://www.sciencedirect.com/science/article/pii/S1568494618305799?via%3Dihub)
-   
-1. Gait in Parkinson’s Disease
-   - [data-paper](https://physionet.org/pn3/gaitpdb/)
-   - other data: [Gait and Balance Databases](https://physionet.org/physiobank/database/)
+ 
   
 ## Diagnosis & Treatments
 1. https://en.wikipedia.org/wiki/Management_of_Parkinson%27s_disease 
