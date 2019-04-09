@@ -53,6 +53,7 @@ collected by Jinlong Hu.
 1. 计算机键盘动作作为早期帕金森病的指标
    - [data-paper](https://physionet.org/physiobank/database/nqmitcsxpd/)
    - Computer keyboard interaction as an indicator of early Parkinson's disease. Scientific Reports: 2016
+   - SVM, AUC=0.81
    
 1. 神经退行性疾病患者的步态数据
    - [data-paper](https://physionet.org/physiobank/database/gaitndd/)
