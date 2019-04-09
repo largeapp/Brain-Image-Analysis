@@ -1,6 +1,6 @@
 Open Data and other resources for Parkinson's disease data analysis.
 
-collected by Jinlong Hu.
+Contributed by Jinlong Hu.
 
 ## Parkinson‘s disease
 1. https://en.wikipedia.org/wiki/Neurodegeneration
