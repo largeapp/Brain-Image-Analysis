@@ -1,8 +1,8 @@
 Open Data and other resources for Parkinson's disease data analysis.
 
-Contributed by Jinlong Hu.
+collected by Jinlong Hu.
 
-## Brain diseases
+## Parkinson diseases
 1. https://en.wikipedia.org/wiki/Neurodegeneration
 1. https://en.wikipedia.org/wiki/Parkinson%27s_disease
 
@@ -47,18 +47,19 @@ Contributed by Jinlong Hu.
    - [data](https://archive.ics.uci.edu/ml/datasets/Parkinson+Disease+Spiral+Drawings+Using+Digitized+Graphics+Tablet)
 
 #### Physiomed datasets - Keystrokes, Tremors and Gait:
-1. 帕金森病的步态
+1. 帕金森病的步态数据
    - [data-paper](https://physionet.org/pn3/gaitpdb/)
+   
+1. 计算机键盘动作作为早期帕金森病的指标
+   - [data-paper](https://physionet.org/physiobank/database/nqmitcsxpd/)
+   - Computer keyboard interaction as an indicator of early Parkinson's disease. Scientific Reports: 2016
    
 1. 神经退行性疾病患者的步态数据
    - [data-paper](https://physionet.org/physiobank/database/gaitndd/)
    
 1. 教学用步态数据，不适合基础研究和发表论文
-   - [data](https://physionet.org/physiobank/database/gaitdb/)
-   
-1. 计算机键盘动作作为早期帕金森病的指标
-   - [data-paper](https://physionet.org/physiobank/database/nqmitcsxpd/)
-   - Computer keyboard interaction as an indicator of early Parkinson's disease. Scientific Reports: 2016
+   - [data](https://physionet.org/physiobank/database/gaitdb/)   
+
    
 1. 食指的静止性震颤振幅和频率
    - [data-paper](https://physionet.org/physiobank/database/tremordb/)
