@@ -38,13 +38,18 @@ Contributed by Jinlong Hu.
 #### UCI ML repository datasets on PD:
 1. Parkinson's Disease Classification Data Set (Speech)
    - [data](https://archive.ics.uci.edu/ml/datasets/Parkinson%27s+Disease+Classification)
-   - [Paper](https://www.sciencedirect.com/science/article/pii/S1568494618305799?via%3Dihub)
+   - data abstract:  The data used in this study were gathered from 188 patients with PD (107 men and 81 women) with ages ranging from 33 to 87.
+   - 2018. A comparative analysis of speech signal processing algorithms for Parkinson's disease classification and the use of the tunable Q-factor wavelet transform. Applied Soft Computing,  [Paper](https://www.sciencedirect.com/science/article/pii/S1568494618305799?via%3Dihub)
 
 1. Parkinson Speech Dataset with Multiple Types of Sound Recordings Data Set 
    - [data](https://archive.ics.uci.edu/ml/datasets/Parkinson+Speech+Dataset+with++Multiple+Types+of+Sound+Recordings) 
+   - data abstract: The training data belongs to 20 Parkinson's Disease (PD) patients and 20 healthy subjects. From all subjects, multiple types of sound recordings (26) are taken.
+   - Collection and Analysis of a Parkinson Speech Dataset with Multiple Types of Sound Recordings', IEEE Journal of Biomedical and Health Informatics, vol. 17(4), pp. 828-834, 2013.
    
 1. Parkinson Disease Spiral Drawings Using Digitized Graphics Tablet Data Set 
    - [data](https://archive.ics.uci.edu/ml/datasets/Parkinson+Disease+Spiral+Drawings+Using+Digitized+Graphics+Tablet)
+   - data abstract: Handwriting database consists of 62 PWP(People with Parkinson) and 15 healthy individuals
+   - 'Improved spiral test using digitized graphics tablet for monitoring Parkinson's disease.' The 2nd International Conference on e-Health and Telemedicine (ICEHTM-2014), pp. 171-175, 2014. 
 
 #### Physiomed datasets - Keystrokes, Tremors and Gait:
 1. 帕金森病的步态数据
