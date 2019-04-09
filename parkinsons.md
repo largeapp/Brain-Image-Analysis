@@ -47,15 +47,25 @@ Contributed by Jinlong Hu.
    - [data](https://archive.ics.uci.edu/ml/datasets/Parkinson+Disease+Spiral+Drawings+Using+Digitized+Graphics+Tablet)
 
 #### Physiomed datasets - Keystrokes, Tremors and Gait:
-1. Gait in Parkinson’s Disease
+1. 帕金森病的步态
    - [data-paper](https://physionet.org/pn3/gaitpdb/)
-   - other data: [Gait and Balance Databases](https://physionet.org/physiobank/database/)
+   
+1. 神经退行性疾病患者的步态数据
+   - [data-paper](https://physionet.org/physiobank/database/gaitndd/)
+   
+1. 教学用步态数据，不适合基础研究和发表论文
+   - [data](https://physionet.org/physiobank/database/gaitdb/)
+   
+1. 计算机键盘动作作为早期帕金森病的指标
+   - [data-paper](https://physionet.org/physiobank/database/nqmitcsxpd/)
+   - Computer keyboard interaction as an indicator of early Parkinson's disease. Scientific Reports: 2016
+   
+1. 食指的静止性震颤振幅和频率
+   - [data-paper](https://physionet.org/physiobank/database/tremordb/)
+   - Effect of deep brain stimulation on amplitude and frequency characteristics of rest tremor in Parkinson's disease. Thalamus & Related Systems,2001
+   
+1. more at [Gait and Balance Databases](https://physionet.org/physiobank/database/)
 
-1. https://physionet.org/physiobank/database/nqmitcsxpd/
-1. https://physionet.org/physiobank/database/tremordb/
-1. https://physionet.org/physiobank/database/gaitndd/
-1. https://physionet.org/physiobank/database/gaitdb/
-1. https://physionet.org/physiobank/database/gaitpdb/
 
 #### Others
 
