@@ -313,6 +313,22 @@ Contributed by Jinlong Hu, Yuezhen Kuang and Lijie Cao.
    - *Adrien Payan and Giovanni Montana* 2015.
    - 数据：sMRI
    
+1. **Using structural MRI to identify bipolar disorders – 13 site machine learning study in 3020 individuals from the ENIGMA Bipolar Disorders Working Group**
+   - [link](https://www.nature.com/articles/s41380-018-0228-9)
+   - 数据：sMRI
+   
+1. **Sex Differences in the Adult Human Brain: Evidence from 5216 UK Biobank Participants**
+   -[link](https://academic.oup.com/cercor/article/28/8/2959/4996558)
+   -[中文解读](http://k.sina.com.cn/article_5994750011_16550a03b00100fdqn.html?cre=tianyi&mod=pcpager_fintoutiao&loc=5&r=9&doct=0&rfunc=86&tj=none&tr=9)
+   - 数据：sMRI，包括各种特征
+
+   
+1. 基于结构磁共振成像的自闭症预测研究
+   - 中文硕士论文，2018
+   - 数据：(ABIDE) sMRI
+  
+  
+### others
 1. **Automatic Detection Of Cerebral Microbleeds Via Deep Learning Based 3d Feature Representation**
    - *Hao Chen, et al.*  2015.
    - 数据：SWI
@@ -328,11 +344,6 @@ Contributed by Jinlong Hu, Yuezhen Kuang and Lijie Cao.
 1. **Marginal Space Deep Learning: Efficient Architecture for Detection in Volumetric Image Data**
    - *Florin C. Ghesu, et al.* 
    - 数据：超声，非脑成像，2D到nD
-   
-1. 基于结构磁共振成像的自闭症预测研究
-   - 中文硕士论文，2018
-   - 数据：(ABIDE) sMRI
-   
 
 ## Parkinson 
 1. **Discriminating cognitive status in Parkinson’s disease through functional connectomics and machine learning**
