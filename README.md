@@ -318,8 +318,8 @@ Contributed by Jinlong Hu, Yuezhen Kuang and Lijie Cao.
    - 数据：sMRI
    
 1. **Sex Differences in the Adult Human Brain: Evidence from 5216 UK Biobank Participants**
-   -[link](https://academic.oup.com/cercor/article/28/8/2959/4996558)
-   -[中文解读](http://k.sina.com.cn/article_5994750011_16550a03b00100fdqn.html?cre=tianyi&mod=pcpager_fintoutiao&loc=5&r=9&doct=0&rfunc=86&tj=none&tr=9)
+   - [link](https://academic.oup.com/cercor/article/28/8/2959/4996558)
+   - [中文解读](http://k.sina.com.cn/article_5994750011_16550a03b00100fdqn.html?cre=tianyi&mod=pcpager_fintoutiao&loc=5&r=9&doct=0&rfunc=86&tj=none&tr=9)
    - 数据：sMRI，包括各种特征
 
    
