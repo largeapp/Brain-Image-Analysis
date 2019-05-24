@@ -39,6 +39,9 @@ Contributed by Jinlong Hu, Yuezhen Kuang and Lijie Cao.
 1. **Adaptive Sparse Learning for Neurodegenerative Disease Classification**
    - [paper](https://ieeexplore.ieee.org/abstract/document/8241617), 2017
 
+#### Brain connectivity dynamics
+  1. **Brain Connectivity Dynamics** issue, NeuroImage, October 2018
+     - [link](https://www.sciencedirect.com/journal/neuroimage/vol/180/part/PB)
    
 ## Resting-state fMRI on voxel level 
 #### Deep learning for voxel
