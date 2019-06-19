@@ -476,6 +476,14 @@ Contributed by Jinlong Hu, Yuezhen Kuang and Lijie Cao.
 1. **Multivariate Classification of Blood Oxygen Level–Dependent fMRI Data with Diagnostic Intention: A Clinical Perspective**
    - *B. Sundermann, et al.* 2014. 
    
+1. **Identification of depression subtypes and relevant brain regions using a data-driven approach**
+   - *Tomoki Tokuda, et al.* 2018. scientific reports
+   - [link](https://www.nature.com/articles/s41598-018-32521-z)
+   - 亚型
+   - [媒体报道](https://www.medicalnewstoday.com/articles/323559.php)
+   
+   
+   
 ## dataset
 1. Human Connectome Project (HCP)
    - [HCP](https://www.humanconnectome.org/)
