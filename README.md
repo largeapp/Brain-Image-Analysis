@@ -39,10 +39,25 @@ Contributed by Jinlong Hu, Yuezhen Kuang and Lijie Cao.
 1. **Adaptive Sparse Learning for Neurodegenerative Disease Classification**
    - [paper](https://ieeexplore.ieee.org/abstract/document/8241617), 2017
 
+1. **Classification on Brain Functional Magnetic Resonance Imaging: Dimensionality, Sample Size, Subject Variability and Noise**
+    - [paper](https://www.cs.purdue.edu/homes/jhonorio/fmrisynth_bookchapter14.pdf)
+
 #### Brain connectivity dynamics
-  1. **Brain Connectivity Dynamics** issue, NeuroImage, October 2018
+1. **Brain Connectivity Dynamics** issue, NeuroImage, October 2018
      - [link](https://www.sciencedirect.com/journal/neuroimage/vol/180/part/PB)
-   
+
+1. **Dynamic Graph Metrics: Tutorial, Toolbox, and Tale**
+    - Ann E. Sizemore and Danielle S. Bassett, 2017
+    - [code](https://github.com/asizemore/Dynamic-Graph-Metrics)
+
+1. **The dynamic functional connectome: State-of-the-art and perspectives**
+    - Maria Giulia Pretia, etc., NeuroImage, 2017
+
+1. **BRAPH: A graph theory software for the analysis of brain connectivity**
+    - Mite Mijalkov,  etc. , PLOS ONE, 2017.
+    - [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0178798)
+    - [code](http://www.braph.org/)    
+       
 ## Resting-state fMRI on voxel level 
 #### Deep learning for voxel
 1. **Deep Learning in Medical Imaging: fMRI Big Data Analysis via Convolutional Neural Networks**
@@ -156,9 +171,17 @@ Contributed by Jinlong Hu, Yuezhen Kuang and Lijie Cao.
 1. 基于卷积神经网络的ADHD的判别分析
    - *俞一云，何良华* 2017.
    - [PPT](https://wenku.baidu.com/view/606cb472974bcf84b9d528ea81c758f5f61f29da.html)
-
+   
+1. **Reproducibility of importance extraction methods in neural network based fMRI classification**
+   - *Athanasios Gotsopoulos, et al.*  NeuroImage 2018.
+   - Important voxels  
+   
+1. **Spatiotemporal feature extraction and classification of Alzheimer’s disease using deep learning 3D-CNN for fMRI data**
+    - *Harshit Parmar*,2020
+    - [paper](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-7/issue-05/056001/Spatiotemporal-feature-extraction-and-classification-of-Alzheimers-disease-using-deep/10.1117/1.JMI.7.5.056001.full?SSO=1)
   
 #### Non-deep-learning for voxel
+
 1. **Multi-way Multi-level Kernel Modeling for Neuroimaging Classification**
    - *Lifang He, et al.*   CVPR 2017.
    
