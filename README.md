@@ -439,6 +439,7 @@ Contributed by Jinlong Hu, Yuezhen Kuang, and Lijie Cao, from School of Computer
    - [paper](https://ieeexplore.ieee.org/abstract/document/8453792)
    - PPMI, 多模态  
 
+1.  [more about Parkinson](https://github.com/largeapp/Brain-Image-Analysis/blob/master/parkinsons.md)
  
 ## Autism
 1. **The Autism Brain Imaging Data Exchange: Towards Large-Scale Evaluation of the Intrinsic Brain Architecture in Autism**
