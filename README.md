@@ -171,11 +171,6 @@ Contributed by Jinlong Hu, Yuezhen Kuang, and Lijie Cao, from School of Computer
 1. **Deep neural network with weight sparsity control and pre-training extracts hierarchical features and enhances classification performance: Evidence from whole-brain resting-state functional connectivity patterns of schizophrenia**
    - *Junghoe Kim, et al.* 2016.
 
-   
-1. 基于卷积神经网络的ADHD的判别分析(Chinese version)
-   - *俞一云，何良华* 2017.
-   - [PPT](https://wenku.baidu.com/view/606cb472974bcf84b9d528ea81c758f5f61f29da.html)
-   
 1. **Reproducibility of importance extraction methods in neural network based fMRI classification**
    - *Athanasios Gotsopoulos, et al.*  NeuroImage 2018.
    - Important voxels  
