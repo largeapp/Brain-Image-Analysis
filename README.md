@@ -15,20 +15,7 @@ Contributed by Jinlong Hu, Yuezhen Kuang, and Lijie Cao, from School of Computer
 8. Other algorithms: [Multiview learning](#Multiview-learning)
 
 ## Survey
-#### On deep learning
-1. **Deep Learning in Medical Image Analysis**
-   - *Dinggang Shen, et al.*   2017.
-   
-1. **Applications of Deep Learning to MRI Images: A Survey**
-   - *Jin Liu, et al.*  2018.
-   - [paper](https://www.researchgate.net/profile/Jin_Liu20/publication/323491805_Applications_of_deep_learning_to_MRI_images_A_survey/links/5aa0be5caca272d448b2175f/Applications-of-deep-learning-to-MRI-images-A-survey.pdf)
-   
-1. **A Comprehensive Survey on Graph Neural Networks**
-   - *Zonghan Wu, et al.* 2019.
-   - [paper](https://arxiv.org/pdf/1901.00596.pdf)
-   - [with Chinese](https://mp.weixin.qq.com/s/0rs8Wur7Iv6jSpFz5C-KNg)
-   - More graph neural networks (GNN) papers, see [GNN-paper-list](https://github.com/largeapp/GNNPapers)
-   
+  
 #### On machine learning
 1. **Machine learning studies on major brain diseases: 5-year trends of 2014–2018**
    - [paper](https://link.springer.com/article/10.1007/s11604-018-0794-4), 2018
@@ -42,7 +29,10 @@ Contributed by Jinlong Hu, Yuezhen Kuang, and Lijie Cao, from School of Computer
 1. **Classification on Brain Functional Magnetic Resonance Imaging: Dimensionality, Sample Size, Subject Variability and Noise**
     - [paper](https://www.cs.purdue.edu/homes/jhonorio/fmrisynth_bookchapter14.pdf)
 
-#### Brain connectivity dynamics
+1. **Classification and Prediction of Brain Disorders Using Functional Connectivity: Promising but Challenging**
+    - [paper](https://www.frontiersin.org/articles/10.3389/fnins.2018.00525/full), 2018
+
+#### On brain connectivity dynamics
 1. **Brain Connectivity Dynamics** issue, NeuroImage, October 2018
      - [link](https://www.sciencedirect.com/journal/neuroimage/vol/180/part/PB)
 
@@ -57,7 +47,21 @@ Contributed by Jinlong Hu, Yuezhen Kuang, and Lijie Cao, from School of Computer
     - Mite Mijalkov,  etc. , PLOS ONE, 2017.
     - [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0178798)
     - [code](http://www.braph.org/)    
-       
+  
+#### On deep learning
+1. **Deep Learning in Medical Image Analysis**
+   - *Dinggang Shen, et al.*   2017.
+   
+1. **Applications of Deep Learning to MRI Images: A Survey**
+   - *Jin Liu, et al.*  2018.
+   - [paper](https://www.researchgate.net/profile/Jin_Liu20/publication/323491805_Applications_of_deep_learning_to_MRI_images_A_survey/links/5aa0be5caca272d448b2175f/Applications-of-deep-learning-to-MRI-images-A-survey.pdf)
+   
+1. **A Comprehensive Survey on Graph Neural Networks**
+   - *Zonghan Wu, et al.* 2019.
+   - [paper](https://arxiv.org/pdf/1901.00596.pdf)
+   - [with Chinese](https://mp.weixin.qq.com/s/0rs8Wur7Iv6jSpFz5C-KNg)
+   - More graph neural networks (GNN) papers, see [GNN-paper-list](https://github.com/largeapp/GNNPapers)
+  
 ## Resting-state fMRI on voxel level 
 #### Deep learning for voxel
 1. **Deep Learning in Medical Imaging: fMRI Big Data Analysis via Convolutional Neural Networks**
