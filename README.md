@@ -26,7 +26,7 @@ Contributed by Jinlong Hu, Yuezhen Kuang, and Lijie Cao, from School of Computer
 1. **A Comprehensive Survey on Graph Neural Networks**
    - *Zonghan Wu, et al.* 2019.
    - [paper](https://arxiv.org/pdf/1901.00596.pdf)
-   - [中文解读](https://mp.weixin.qq.com/s/0rs8Wur7Iv6jSpFz5C-KNg)
+   - [with Chinese](https://mp.weixin.qq.com/s/0rs8Wur7Iv6jSpFz5C-KNg)
    - More graph neural networks (GNN) papers, see [GNN-paper-list](https://github.com/largeapp/GNNPapers)
    
 #### On machine learning
@@ -99,7 +99,7 @@ Contributed by Jinlong Hu, Yuezhen Kuang, and Lijie Cao, from School of Computer
    
 1. **The Unsupervised Hierarchical Convolutional Sparse Auto-Encoder for Neuroimaging Data Classification**
    - *Xiaobing Han, et al.* 2015.
-   - 自动编码器，ADHD-200，ADNI数据 
+   - auto encoding，ADHD-200，ADNI data 
 
 1. **Group-wise Sparse Representation Of Resting-state fMRI Data For Better Understanding Of Schizophrenia**
    - *Lin Yuan, et al.*  2017.
@@ -107,11 +107,11 @@ Contributed by Jinlong Hu, Yuezhen Kuang, and Lijie Cao, from School of Computer
    
 1. **Neuroscience meets Deep Learning**
    - *Dhruv Nathawani, et al.* 
-   - CNN, CMU 2008数据
+   - CNN, CMU 2008 data
    
 1. **Brain Age Prediction Based On Resting-state Functional Connectivity Patterns Using Convolutional Neural Networks**
    - *Hongming Li* 
-   - 3D, t-SNE结果分析
+   - 3D, t-SNE analysis
    
 1. **Voxelwise 3D Convolutional and Recurrent Neural Networks for Epilepsy and Depression Diagnostics from Structural and Functional MRI Data**
    - *Marina Pominova, et al.*  2018.
@@ -125,7 +125,7 @@ Contributed by Jinlong Hu, Yuezhen Kuang, and Lijie Cao, from School of Computer
    
 1. **3D fully convolutional networks for subcortical segmentation in MRI: A large-scale study**
    - *Jose Dolz, et al.* 2016.
-   - 分割，多个数据集
+   - segmentation，multiple data sets.
    
 1. **Multi-Scale 3D Convolutional Neural Networks for Lesion Segmentation in Brain MRI**
    - *Konstantinos Kamnitsas, et al.*
@@ -139,11 +139,11 @@ Contributed by Jinlong Hu, Yuezhen Kuang, and Lijie Cao, from School of Computer
    
 1. **3D Deep Learning for Multi-modal Imaging-Guided Survival Time Prediction of Brain Tumor Patients**
    - *Dong Nie, et al.*  2016.
-   - 多模态
+   - multi-modal
    
 1. **DeepAD: Alzheimer’s Disease Classification via Deep Convolutional Neural Networks using MRI and fMRI**
    - *Saman Sarraf, et al.*  2016.
-   - 多模态：MRI, fMRI   
+   - multi-modal：MRI, fMRI   
    
  
 
@@ -152,23 +152,23 @@ Contributed by Jinlong Hu, Yuezhen Kuang, and Lijie Cao, from School of Computer
    
 1. **Retrospective head motion estimation in structural brain MRI with 3D CNNs**
    - *Juan Eugenio Iglesias, et al.* 
-   - 识别头部是否移动，提高ABIDE预测准确率。
+   - head moving, ABIDE data set.
    
 1. **Transfer learning improves resting-state functional connectivity pattern analysis using convolutional neural networks**
    - *Pál Vakli, et al.* 2018.
-   - fMRI, 迁移学习
+   - fMRI, transfer learing
    
    
 1. **Towards Alzheimer’s Disease Classification through Transfer Learning**
    - *Marcia Hon, et al.*  BIBM 2017.
-   - 使用迁移学习进行阿兹海默症疾病分类
+   - transfer learning
    
    
 1. **Deep neural network with weight sparsity control and pre-training extracts hierarchical features and enhances classification performance: Evidence from whole-brain resting-state functional connectivity patterns of schizophrenia**
    - *Junghoe Kim, et al.* 2016.
 
    
-1. 基于卷积神经网络的ADHD的判别分析
+1. 基于卷积神经网络的ADHD的判别分析(Chinese version)
    - *俞一云，何良华* 2017.
    - [PPT](https://wenku.baidu.com/view/606cb472974bcf84b9d528ea81c758f5f61f29da.html)
    
@@ -190,15 +190,15 @@ Contributed by Jinlong Hu, Yuezhen Kuang, and Lijie Cao, from School of Computer
    
 1. **Feature Selection with a Genetic Algorithm for Classification of Brain Imaging Data**
    - *Annamária Szenkovits, et al.* 2017.
-   - 特征选择
+   - feature selection
 
 1. **Building a Science of Individual Differences from fMRI**
    - *Julien Dubois* 2016.
-   - 从组到个体的研究
+   - from group to individual
    
 1. **Feature fusion via hierarchical supervised local CCA for diagnosis of autism spectrum disorder**
    - *Feng Zhao, et al.*  2016.
-   - 不同特征融合，多模态数据   
+   - feature fusion, multi-modal data   
    
    
 
@@ -213,7 +213,7 @@ Contributed by Jinlong Hu, Yuezhen Kuang, and Lijie Cao, from School of Computer
 
 1. **Resting State fMRI Functional Connectivity-Based Classification Using a Convolutional Neural Network Architecture**
    - *Regina Júlia Meszlényi, et al.* 2017.
-   - 499个脑区的网络用CNN
+   - 499 brain regions, CNN
    
 1. **Identifying Connectivity Patterns for Brain Diseases via Multi-side-view Guided Deep Architectures**
    - *Jingyuan Zhang, et al.*  2016.
@@ -221,7 +221,7 @@ Contributed by Jinlong Hu, Yuezhen Kuang, and Lijie Cao, from School of Computer
 1. **Do Deep Neural Networks Outperform Kernel Regression for Functional Connectivity Prediction of Behavior?**
    - *Tong He, et al.* 2018.
    - [paper](https://www.biorxiv.org/content/biorxiv/early/2018/11/19/473603.full.pdf)
-   - 精简版：**Is deep learning better than kernel regression for functional connectivity prediction of fluid intelligence?** [paper](http://holmeslab.yale.edu/wp-content/uploads/2018-He.pdf)
+   - simple version：**Is deep learning better than kernel regression for functional connectivity prediction of fluid intelligence?** [paper](http://holmeslab.yale.edu/wp-content/uploads/2018-He.pdf)
 
 1. **Metric learning with spectral graph convolutions on brain connectivity networks**
    -*Sofia IraKtena, et al.* 2018
@@ -238,7 +238,7 @@ Contributed by Jinlong Hu, Yuezhen Kuang, and Lijie Cao, from School of Computer
 1. **Multi-View Graph Convolutional Network and Its Applications on Neuroimage Analysis for Parkinson's Disease**
    - *xi zhang, et al.* 2018.
    - [paper](https://arxiv.org/abs/1805.08801)
-   -  数据：PPMI, DTI
+   -  data：PPMI, DTI
 
 #### Non-deep-learning for region
 1. **Resting-State Functional Connectivity in Autism Spectrum Disorders: A Review**
@@ -249,39 +249,37 @@ Contributed by Jinlong Hu, Yuezhen Kuang, and Lijie Cao, from School of Computer
    
 1. **Classification of Resting State fMRI Datasets Using Dynamic Network Clusters**
    - *Hyo Yul Byun, et al.* 2014
-   - 动态功能网络聚类
+   - dynamic brain network, clustering
    
-1. **全图表征学习的研究进展**
-   - 唐建，中国计算机学会通讯，2018.03
-   - 全图嵌入方法
+
    
 #### Special issue 
- Contributed by Lijie
+ Contributed by Lijie. 
 1. **Spectral Graph Convolutions for Population-Based Disease Prediction** 2017.
-   - 以人为节点构建图，应用GCN半监督学习
+   - subjects as nodes
 
 1. **Distance Metric Learning using Graph Convolutional Networks: Application to Functional Brain Networks** 2017.
-   - 一个脑作为一幅图，以脑区为节点，应用GCN孪生网络进行度量学习
+   - brain networks as input，mutric learning with GCN Siamese network
    
 1. **Disease Prediction using Graph Convolutional Networks: Application to Autism Spectrum Disorder and Alzheimer’s Disease**
 1. **Multi Layered-Parallel Graph Convolutional Network (ML-PGCN) for Disease Prediction**
 1. **SELF-ATTENTION EQUIPPED GRAPH CONVOLUTIONS FOR DISEASE PREDICTION**
-   - 论文3、4、5是在1上改进扩展
+   - Paper 3, 4, and 5 refer to Paper 1.
 
 1. **Metric Learning with Spectral Graph Convolutions on Brain Connectivity Networks**
-   - 是论文2的扩展，更详细地系统描述
+   - refer to Paper 2.
 
 1. **Similarity Learning with Higher-Order Proximity for Brain Network Analysis**
-   - 基于论文6做的改进, 论文7引入了图的高阶信息
+   - refer to Paper 6, and introduce higher-order information
    
 1. **Multi-View Graph Convolutional Network and Its Applicationson Neuroimage Analysis for Parkinson’sDisease**
-   - 基于论文6做的改进, 引入了多模态
+   - refer to Paper 6, with multi view
    
 1. **Graph Saliency Maps through Spectral Convolutional Networks: Application to Sex Classiﬁcation with Brain Connectivity**
-   - 基于论文6做的改进,使结果可解释
+   - refer to Paper 6, with explanation
    
 1. **Integrative Analysis of Patient Health Records and Neuroimages via Memory-based Graph Convolutional Network**
-   - 基于论文6做的改进, 引入了多模态
+   - refer to Paper 6, multi-modal
 
 
 
@@ -296,19 +294,19 @@ Contributed by Jinlong Hu, Yuezhen Kuang, and Lijie Cao, from School of Computer
    
 1. **Brains on Beats**
    - *Umut Guclu, et al.* 
-   - 用DNN测人脑对音乐的反应。
+   - DNN, reaction to the music。
    
 1. **deep learning for brain decoding**
    - *Orhan Firat, et al.*  2014.
-   - 自编码器
+   - auto encoder
    
 1. **Learning Representation for fMRI Data Analysis using Autoencoder**
    - *Suwatchai Kamonsantiroj, et al.* 2016.
-   - 自动编码器, CMU 2008数据
+   - auto encoder, CMU 2008 data
    
 1. **modeling task fMRI data via deep convolutional autoencoder**
    - *Heng Huang, et al.*  2017.
-   - 卷积自动编码器
+   - convolution autoencoder
    
 1. **Learning Deep Temporal Representations for fMRI Brain Decoding**
    - *Orhan Firat, et al.* 2015.
@@ -320,67 +318,62 @@ Contributed by Jinlong Hu, Yuezhen Kuang, and Lijie Cao, from School of Computer
 #### Non-deep-learning for region
 1. **Improving accuracy and power with transfer learning using a meta-analytic database**
    - *Yannick Schwartz, et al.* 2012.
-   - 迁移学习
+   - transfer learning
  
  
 ## sMRI and other data
    
 1. **Alzheimer’s Disease Diagnostics By Adaptation Of 3d Convolutional Network**
    - *Ehsan Hosseini-Asl, et al.*  2016.
-   - 数据：sMRI
+   - sMRI
    
 1. **Alzheimer’s disease diagnostics by a 3D deeply supervised adaptable convolutional network**
    - *Ehsan Hosseini Asl, et al.*  2018.
-   - 数据：sMRI ADNI, 迁移学习与域适应
+   - sMRI ADNI, transfer learing and adapting
    
 1. **Alzheimer's Disease Classification Based on Combination of Multi-model Convolutional Networks**
    - *Fan Li, et al.*  2017.
-   - 使用多个多尺度的3D 卷积自动编码器
-   - 数据：sMRI (ADNI)
+   - multi 3D auto-encoding convolutinal networks
+   - sMRI (ADNI)
 
 1. **3D CNN-based classification using sMRI and MD-DTI images for Alzheimer disease studies**
    - *Alexander Khvostikov, et al.* 2018.
-   - 数据：sMRI,DTI
+   - sMRI,DTI
    
 1. **Deep MRI brain extraction: A 3D convolutional neural network for skull stripping**
    - *Jens Kleesiek, et al.* 2016. 
-   - 数据：sMRI
+   - sMRI
 
 1. **Predicting Alzheimer’s disease: a neuroimaging study with 3D convolutional neural networks**
    - *Adrien Payan and Giovanni Montana* 2015.
-   - 数据：sMRI
+   - sMRI
    
 1. **Using structural MRI to identify bipolar disorders – 13 site machine learning study in 3020 individuals from the ENIGMA Bipolar Disorders Working Group**
    - [link](https://www.nature.com/articles/s41380-018-0228-9)
-   - 数据：sMRI
+   - sMRI
    
 1. **Sex Differences in the Adult Human Brain: Evidence from 5216 UK Biobank Participants**
    - [link](https://academic.oup.com/cercor/article/28/8/2959/4996558)
-   - [中文解读](http://k.sina.com.cn/article_5994750011_16550a03b00100fdqn.html?cre=tianyi&mod=pcpager_fintoutiao&loc=5&r=9&doct=0&rfunc=86&tj=none&tr=9)
-   - 数据：sMRI，包括各种特征
-
-   
-1. 基于结构磁共振成像的自闭症预测研究
-   - 中文硕士论文，2018
-   - 数据：(ABIDE) sMRI
-  
+   - [Chinese analysis](http://k.sina.com.cn/article_5994750011_16550a03b00100fdqn.html?cre=tianyi&mod=pcpager_fintoutiao&loc=5&r=9&doct=0&rfunc=86&tj=none&tr=9)
+   - sMRI
+ 
   
 ### others
 1. **Automatic Detection Of Cerebral Microbleeds Via Deep Learning Based 3d Feature Representation**
    - *Hao Chen, et al.*  2015.
-   - 数据：SWI
+   - SWI
    
 1. **learning representations from eeg with deep recurrent-convolutional neural networks**
    - *Pouya Bashivan, et al.*  ICLR 2016.
-   - 数据：EEG
+   - EEG
 
 1. **Classification of Clinical Significance of MRI Prostate Findings Using 3D Convolutional Neural Networks**
    - *Alireza Mehrtash, et al.*
-   - 数据：Multi-parametric magnetic resonance imaging (mpMRI), DWI and DCE-MRI modalities
+   - Multi-parametric magnetic resonance imaging (mpMRI), DWI and DCE-MRI modalities
    
 1. **Marginal Space Deep Learning: Efficient Architecture for Detection in Volumetric Image Data**
    - *Florin C. Ghesu, et al.* 
-   - 数据：超声，非脑成像，2D到nD
+   - data: supersound，non brain imaging，2D to nD
 
 ## Parkinson 
 1. **Discriminating cognitive status in Parkinson’s disease through functional connectomics and machine learning**
@@ -420,16 +413,16 @@ Contributed by Jinlong Hu, Yuezhen Kuang, and Lijie Cao, from School of Computer
    
 1. **The Parkinson’s progression markers initiative (PPMI) – establishing a PD biomarker cohort**
    - *Kenneth Marek, et al.* 2018.
-   - PPMI 数据描述
+   - PPMI data.
    
 1. **Multi-View Graph Convolutional Network and Its Applications on Neuroimage Analysis for Parkinson’s Disease**
    - [paper](https://arxiv.org/pdf/1805.08801.pdf), 2018
    - DTI
-   - 多视图，多种DTI的边的建立方法，多个图
+   - multi-view, DTI with multi edge building methods, multiple graphs.
    
 1. **A Fully-Automatic Framework for Parkinson’s Disease Diagnosis by Multi-Modality Images**
    - [paper](https://arxiv.org/ftp/arxiv/papers/1902/1902.09934.pdf)
-   - sMRI, PET 多模态
+   - sMRI, PET, multi-modal
    
 1. **Multi-task Sparse Low-Rank Learning for Multi-classification of Parkinson’s Disease**
    - [paper](https://link.springer.com/chapter/10.1007/978-3-030-00889-5_41)
@@ -437,18 +430,18 @@ Contributed by Jinlong Hu, Yuezhen Kuang, and Lijie Cao, from School of Computer
    
 1. **Parkinson's Disease Diagnosis via Joint Learning from Multiple Modalities and Relations**
    - [paper](https://ieeexplore.ieee.org/abstract/document/8453792)
-   - PPMI, 多模态  
+   - PPMI, multi-modal 
 
 1.  [more about Parkinson](https://github.com/largeapp/Brain-Image-Analysis/blob/master/parkinsons.md)
  
 ## Autism
 1. **The Autism Brain Imaging Data Exchange: Towards Large-Scale Evaluation of the Intrinsic Brain Architecture in Autism**
    - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4162310/)
-   - ABIDE 1 论文
+   - ABIDE 1 
    
 1. **Enhancing studies of the connectome in autism using the autism brain imaging data exchange II**
    - [paper](https://www.nature.com/articles/sdata201710)
-   - ABIDE 2 论文
+   - ABIDE 2 
    
 1. **Predicting autism spectrum disorder using domain-adaptive cross-site evaluation**
    - *Bhaumik R, Pradhan A, Das S, et al.*, Neuroinformatics, 2018.
@@ -464,7 +457,7 @@ Contributed by Jinlong Hu, Yuezhen Kuang, and Lijie Cao, from School of Computer
    - *Heinsfeld A S, Franco A R, Craddock R C, et al.* , 2018
    - dataset: ABIDE
    - [paper](https://www.sciencedirect.com/science/article/pii/S2213158217302073)
-   - 算法：深度学习 DNN
+   - algorithm：deep learning, DNN
    
 1. **Age and Gender Effects on Intrinsic Connectivity in Autism Using Functional Integration and Segregation**
    - *Teague Rhine Henry, Gabriel S. Dichter, and Kathleen Gates*, 2017
@@ -477,7 +470,7 @@ Contributed by Jinlong Hu, Yuezhen Kuang, and Lijie Cao, from School of Computer
    
 1. **Towards Accurate Personalized Autism Diagnosis Using Different Imaging Modalities: sMRI, fMRI, and DTI**
    - *ElNakieb Y, Ali M T, Dekhil O, et al.*  2018 IEEE International Symposium on Signal Processing and Information Technology (ISSPIT).
-   - 多模态：sMRI, fMRI, DTI
+   - multi-modal：sMRI, fMRI, DTI
 
 
 
@@ -490,7 +483,7 @@ Contributed by Jinlong Hu, Yuezhen Kuang, and Lijie Cao, from School of Computer
    
 1. **Detecting Neuroimaging Biomarkers for Depression: A Meta-analysis of Multivariate Pattern Recognition Studies**
    - *Joseph Kambeitz, et al.* 2016.
-   - 其他论文结果收集分析
+   - meta analysis
    
 1. **Depression Disorder Classification of fMRI Data Using Sparse Low-Rank Functional Brain Network and Graph-Based Features**
    - *Xin Wang, et al.* 2016.
@@ -503,7 +496,7 @@ Contributed by Jinlong Hu, Yuezhen Kuang, and Lijie Cao, from School of Computer
    
 1. **Resting-state connectivity biomarkers define neurophysiological subtypes of depression**
    - *Andrew T Drysdale, et al.* 2017.
-   - 亚型
+   - subtypes.
    
 1. **Diagnostic classification of unipolar depression based on restingstate functional connectivity MRI: effects of generalization to a diverse sample**
    - *Benedikt Sundermann, et al.*  2017.
@@ -514,8 +507,8 @@ Contributed by Jinlong Hu, Yuezhen Kuang, and Lijie Cao, from School of Computer
 1. **Identification of depression subtypes and relevant brain regions using a data-driven approach**
    - *Tomoki Tokuda, et al.* 2018. scientific reports
    - [link](https://www.nature.com/articles/s41598-018-32521-z)
-   - 亚型
-   - [媒体报道](https://www.medicalnewstoday.com/articles/323559.php)
+   - subtypes
+   - [media reports](https://www.medicalnewstoday.com/articles/323559.php)
    
    
    
