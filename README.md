@@ -204,6 +204,9 @@ Contributed by Jinlong Hu, Yuezhen Kuang, and Lijie Cao, from School of Computer
 
 ## Resting-state fMRI on region level 
 #### Deep learning for region
+1.  **GAT-LI: a graph attention network based learning and interpreting method for functional brain network classification**
+     - *Jinlong Hu, Lijie Cao, Tenghui Li, Shoubin Dong, and Ping Li*, BMC Bioinformatics, 2021
+
 1. **Interpretable Learning Approaches in Resting-State Functional Connectivity Analysis: The Case of Autism Spectrum Disorder**
    - *Jinlong Hu, Lijie Cao, Tenghui Li, Bin Liao, Shoubin Dong, and Ping Li*, 2020
    - [code](https://github.com/largeapp/ifc)
