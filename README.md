@@ -1,7 +1,7 @@
 # Brain-Image-Analysis
 Paper list and resources on machine learning for brain image (e. g. fMRI and sMRI) analysis. 
 
-Contributed by Jinlong Hu, Yuezhen Kuang and Lijie Cao.
+Contributed by Jinlong Hu, Yuezhen Kuang, and Lijie Cao, from School of Computer Science and Engineering, South China University of Technology, Guangzhou, China.
 
 ##### Table of Contents  
 
@@ -280,6 +280,10 @@ Contributed by Jinlong Hu, Yuezhen Kuang and Lijie Cao.
 
 ## task fMRI
 #### Deep learning for voxel
+1.  **A Multichannel 2D Convolutional Neural Network Model for Task-Evoked fMRI Data Classification, Computational Intelligence and Neuroscience**
+    - *Jinlong Hu, Yuezhen Kuang, Bin Liao, Lijie Cao, Shoubin Dong, and Ping Li*, 2019.
+    - [code](https://github.com/largeapp/M2DCNN)
+
 1. **Deep learning of fMRI big data: a novel approach to subject-transfer decoding**
    - *Sotetsu Koyamada, et al.*  2015.
    
