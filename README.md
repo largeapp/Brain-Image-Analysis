@@ -205,10 +205,10 @@ Contributed by Jinlong Hu, Yuezhen Kuang, and Lijie Cao, from School of Computer
 ## Resting-state fMRI on region level 
 #### Deep learning for region
 1.  **GAT-LI: a graph attention network based learning and interpreting method for functional brain network classification**
-     - *Jinlong Hu, Lijie Cao, Tenghui Li, Shoubin Dong, and Ping Li*, BMC Bioinformatics, 2021
+     - *Jinlong Hu, et al*, 2021
 
 1. **Interpretable Learning Approaches in Resting-State Functional Connectivity Analysis: The Case of Autism Spectrum Disorder**
-   - *Jinlong Hu, Lijie Cao, Tenghui Li, Bin Liao, Shoubin Dong, and Ping Li*, 2020
+   - *Jinlong Hu, et al*, 2020
    - [code](https://github.com/largeapp/ifc)
 
 1. **Resting State fMRI Functional Connectivity-Based Classification Using a Convolutional Neural Network Architecture**
@@ -288,7 +288,7 @@ Contributed by Jinlong Hu, Yuezhen Kuang, and Lijie Cao, from School of Computer
 ## task fMRI
 #### Deep learning for voxel
 1.  **A Multichannel 2D Convolutional Neural Network Model for Task-Evoked fMRI Data Classification**
-    - *Jinlong Hu, Yuezhen Kuang, Bin Liao, Lijie Cao, Shoubin Dong, and Ping Li*, 2019.
+    - *Jinlong Hu, et al.*, 2019.
     - [code](https://github.com/largeapp/M2DCNN)
 
 1. **Deep learning of fMRI big data: a novel approach to subject-transfer decoding**
