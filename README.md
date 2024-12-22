@@ -3,6 +3,8 @@ Paper list and resources on machine learning for brain image (e. g. fMRI and sMR
 
 Contributed by Jinlong Hu, Yuezhen Kuang, and Lijie Cao, from School of Computer Science and Engineering, South China University of Technology, Guangzhou, China.
 
+Our research collection on artificial intelligence for brain image analysis is available on [this page](https://github.com/largeapp/AI-for-Brain-Image-Analysis).
+
 ##### Table of Contents  
 
 1. [Survey](#survey)  
